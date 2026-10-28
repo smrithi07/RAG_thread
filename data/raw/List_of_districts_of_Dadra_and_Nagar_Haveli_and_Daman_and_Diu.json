@@ -1,0 +1,62 @@
+{
+ "title": "List of districts of Dadra and Nagar Haveli and Daman and Diu",
+ "url": "https://en.wikipedia.org/wiki/List_of_districts_of_Dadra_and_Nagar_Haveli_and_Daman_and_Diu",
+ "sections": [
+  {
+   "heading": "Introduction",
+   "text": "The Union territory of Dadra and Nagar Haveli and Daman and Diu, India consists of three districts.",
+   "tables": [],
+   "captions": [
+    "Map of Dadra and Nagar Haveli and Daman and Diu, showing its three districts as well as general location within India."
+   ]
+  },
+  {
+   "heading": "Districts",
+   "text": "",
+   "tables": [
+    {
+     "type": "wikitable",
+     "caption": "",
+     "columns": [
+      "#",
+      "District",
+      "Area, (km2)",
+      "Population (2011)",
+      "Density (per km2)"
+     ],
+     "rows": [
+      [
+       "1",
+       "Daman",
+       "72",
+       "190855",
+       "2650.76"
+      ],
+      [
+       "2",
+       "Diu",
+       "40",
+       "52056",
+       "1301.4"
+      ],
+      [
+       "3",
+       "Dadra and Nagar Haveli",
+       "491",
+       "342853",
+       "698.27"
+      ],
+      [
+       "Total",
+       "Total",
+       "603",
+       "585764",
+       "970.0"
+      ]
+     ]
+    }
+   ],
+   "captions": []
+  }
+ ]
+}

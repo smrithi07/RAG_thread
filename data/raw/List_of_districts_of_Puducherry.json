@@ -1,0 +1,85 @@
+{
+ "title": "List of districts of Puducherry",
+ "url": "https://en.wikipedia.org/wiki/List_of_districts_of_Puducherry",
+ "sections": [
+  {
+   "heading": "Introduction",
+   "text": "Puducherry is a Union Territory of India, with four exclaved districts; Puducherry district and Karaikal district (surrounded by the state of Tamil Nadu), Mahé district (surrounded by the state of Kerala) and Yanam district (surrounded by the state of Andhra Pradesh), with Pondicherry district having the largest area and population and Mahe district having the smallest area and population. All four districts retained the borders of French India, and were incorporated into the Republic of India after the de facto transfer of the territories of French India in 1954.\nAdministratively Puducherry only has 2 districts, Puducherry and Karaikal. The districts of Yanam and Mahé are census districts and not administrative districts. The sub-taluks covered by these 2 census districts are administratively under the Puducherry district.",
+   "tables": [],
+   "captions": []
+  },
+  {
+   "heading": "Districts",
+   "text": "",
+   "tables": [
+    {
+     "type": "wikitable",
+     "caption": "",
+     "columns": [
+      "0",
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7"
+     ],
+     "rows": [
+      [
+       "ISO 3166-2 Code",
+       "Sl No",
+       "District",
+       "Headquarters",
+       "Population (2011)",
+       "Area (km2)",
+       "Density (/km2)",
+       "Official website"
+      ],
+      [
+       "IN-PY-KA",
+       "1",
+       "Karaikal district",
+       "Karaikal",
+       "200222",
+       "160",
+       "1252",
+       "http://karaikal.gov.in/"
+      ],
+      [
+       "IN-PY-MA",
+       "2",
+       "Mahé district",
+       "Mahé",
+       "41934",
+       "9",
+       "4659",
+       "http://mahe.gov.in/"
+      ],
+      [
+       "IN-PY-PO",
+       "3",
+       "Puducherry district",
+       "Pondicherry",
+       "946600",
+       "293",
+       "3231",
+       "http://puducherry-dt.gov.in/"
+      ],
+      [
+       "IN-PY-YA",
+       "4",
+       "Yanam district",
+       "Yanam",
+       "55616",
+       "30",
+       "3272",
+       "http://yanam.gov.in/"
+      ]
+     ]
+    }
+   ],
+   "captions": []
+  }
+ ]
+}

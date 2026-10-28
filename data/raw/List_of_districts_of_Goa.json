@@ -1,0 +1,77 @@
+{
+ "title": "List of districts of Goa",
+ "url": "https://en.wikipedia.org/wiki/List_of_districts_of_Goa",
+ "sections": [
+  {
+   "heading": "Introduction",
+   "text": "The Indian state of Goa is divided into three districts: North Goa, South Goa and Kushavati.",
+   "tables": [],
+   "captions": []
+  },
+  {
+   "heading": "Administrative structure",
+   "text": "North Goa is further divided into three subdivisions — Panaji, Mapusa, and Bicholim; and five talukas — Tiswadi, Bardez, Pernem, Bicholim, and Sattari.\nSouth Goa is divided into three subdivisions — Ponda, Vasco da Gama, and Margao; and three talukas — Ponda, Mormugao, and Salcete. The Ponda taluka was moved from North Goa to South Goa in January 2015.\nKushavati is divided into four subdivisions — Sanguem, Dharbandora, Quepem and Canacona (Chaudi); and four talukas — Sanguem, Dharbandora, Quepem and Canacona. The district was formed in December 2025 after being split from South Goa.",
+   "tables": [],
+   "captions": [
+    "Administrative talukas of Goa state"
+   ]
+  },
+  {
+   "heading": "Districts",
+   "text": "",
+   "tables": [
+    {
+     "type": "wikitable",
+     "caption": "",
+     "columns": [
+      "Sl No",
+      "Code",
+      "District",
+      "Headquarters",
+      "Population (2011)",
+      "Area (km2)",
+      "Density (/km2)",
+      "Official website",
+      "Map"
+     ],
+     "rows": [
+      [
+       "1",
+       "NG",
+       "North Goa",
+       "Panaji",
+       "817761",
+       "1736",
+       "471",
+       "https://northgoa.gov.in/",
+       ""
+      ],
+      [
+       "2",
+       "SG",
+       "South Goa",
+       "Margao",
+       "639962",
+       "1966",
+       "326",
+       "https://southgoa.nic.in/",
+       ""
+      ],
+      [
+       "3",
+       "",
+       "Kushavati district",
+       "Quepem",
+       "639962",
+       "1966",
+       "326",
+       "https://kushavati.goa.gov.in/",
+       ""
+      ]
+     ]
+    }
+   ],
+   "captions": []
+  }
+ ]
+}

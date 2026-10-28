@@ -1,0 +1,488 @@
+[
+ {
+  "id": "t01",
+  "category": "easy",
+  "answerable": true,
+  "thread": "What is the capital of Kerala?",
+  "gold": [
+   {
+    "pages": [
+     "Kerala"
+    ],
+    "keywords": [
+     "capital",
+     "thiruvananthapuram"
+    ]
+   }
+  ],
+  "answer_keywords": [
+   "thiruvananthapuram"
+  ]
+ },
+ {
+  "id": "t02",
+  "category": "easy",
+  "answerable": true,
+  "thread": "Hi,\n\nCould you tell me the capital city of Karnataka?\n\nThanks,\nPriya",
+  "gold": [
+   {
+    "pages": [
+     "Karnataka"
+    ],
+    "keywords": [
+     "capital",
+     "bengaluru"
+    ]
+   }
+  ],
+  "answer_keywords": [
+   "bengaluru"
+  ]
+ },
+ {
+  "id": "t03",
+  "category": "easy",
+  "answerable": true,
+  "thread": "What is the official animal of the Andaman and Nicobar Islands?",
+  "gold": [
+   {
+    "pages": [
+     "Andaman and Nicobar Islands"
+    ],
+    "keywords": [
+     "dugong"
+    ]
+   }
+  ],
+  "answer_keywords": [
+   "dugong"
+  ]
+ },
+ {
+  "id": "t04",
+  "category": "easy",
+  "answerable": true,
+  "thread": "Which union territory has Port Blair as its capital?",
+  "gold": [
+   {
+    "pages": [
+     "Andaman and Nicobar Islands"
+    ],
+    "keywords": [
+     "port blair",
+     "capital"
+    ]
+   }
+  ],
+  "answer_keywords": [
+   "andaman"
+  ]
+ },
+ {
+  "id": "t05",
+  "category": "alias",
+  "answerable": true,
+  "thread": "Hi Ravi,\n\nFor the survey plan, how many districts are there in UP right now?\n\nRegards,\nAnand",
+  "gold": [
+   {
+    "pages": [
+     "Uttar Pradesh",
+     "List of districts of Uttar Pradesh"
+    ],
+    "keywords": [
+     "75",
+     "district"
+    ]
+   }
+  ],
+  "answer_keywords": [
+   "75"
+  ]
+ },
+ {
+  "id": "t06",
+  "category": "alias",
+  "answerable": true,
+  "thread": "Subject: Old map labels\n\nHi team,\n\nOur old maps still say Orissa. In which year was Orissa officially renamed?\n\nThanks,\nLeena",
+  "gold": [
+   {
+    "pages": [
+     "Odisha"
+    ],
+    "keywords": [
+     "orissa"
+    ]
+   }
+  ],
+  "answer_keywords": [
+   "2011"
+  ]
+ },
+ {
+  "id": "t07",
+  "category": "paraphrase",
+  "answerable": true,
+  "thread": "Which Indian state is known as God's Own Country?",
+  "gold": [
+   {
+    "pages": [
+     "Kerala"
+    ],
+    "keywords": [
+     "own country"
+    ]
+   }
+  ],
+  "answer_keywords": [
+   "kerala"
+  ]
+ },
+ {
+  "id": "t08",
+  "category": "multi-turn",
+  "answerable": true,
+  "thread": "Subject: Workshop venue\n\nHi Sana,\n\nWe have finalised Bhubaneswar for the workshop. Can you prepare the welcome slide in the local language as well?\n\nRegards,\nVikram\n\nOn Mon, 26 Oct 2026 at 10:02, Sana Ali <sana@example.org> wrote:\n> Hi Vikram,\n> Sure. Which language is the official language of that state? I want to get it right.\n>\n> Thanks,\n> Sana\n>\n> On Mon, 26 Oct 2026 at 09:40, Vikram Rao <vikram@example.org> wrote:\n>> Hi Sana,\n>> The workshop will be held in Bhubaneswar next month.\n>>\n>> Regards,\n>> Vikram",
+  "gold": [
+   {
+    "pages": [
+     "Odisha"
+    ],
+    "keywords": [
+     "odia",
+     "official"
+    ]
+   }
+  ],
+  "answer_keywords": [
+   "odia"
+  ]
+ },
+ {
+  "id": "t09",
+  "category": "numeric-compare",
+  "answerable": true,
+  "thread": "Subject: Re: Region sizes\n\nThanks Meera. So between the two, which one is the larger state by area?\n\nBest,\nRohit\n\nOn Tue, 27 Oct 2026 at 14:00, Meera N <meera@example.org> wrote:\n> Hi Rohit,\n> The two candidate regions for the pilot are Rajasthan and Madhya Pradesh.\n>\n> Regards,\n> Meera",
+  "gold": [
+   {
+    "pages": [
+     "Rajasthan"
+    ],
+    "keywords": [
+     "area",
+     "km2"
+    ]
+   },
+   {
+    "pages": [
+     "Madhya Pradesh"
+    ],
+    "keywords": [
+     "area",
+     "km2"
+    ]
+   }
+  ],
+  "answer_keywords": [
+   "rajasthan"
+  ]
+ },
+ {
+  "id": "t10",
+  "category": "follow-up",
+  "answerable": true,
+  "thread": "Subject: Re: Quick question\n\nAny update on this?\n\nThanks,\nNikhil\n\nOn Wed, 28 Oct 2026 at 11:15, Nikhil Jain <nikhil@example.org> wrote:\n> Hi all,\n> Which state has Shillong as its capital?\n>\n> Thanks,\n> Nikhil",
+  "gold": [
+   {
+    "pages": [
+     "Meghalaya"
+    ],
+    "keywords": [
+     "shillong",
+     "capital"
+    ]
+   }
+  ],
+  "answer_keywords": [
+   "meghalaya"
+  ]
+ },
+ {
+  "id": "t11",
+  "category": "noisy",
+  "answerable": true,
+  "thread": "Subject: FW: FW: Signage for the Delhi office\n\nHi Arun,\n\nPlease check what the official language of Delhi is before we print the signage.\n\nThanks,\nKavya\nOperations | Northern Region\n\n-----Original Message-----\nFrom: Arun Mehta <arun@example.org>\nSent: Monday, October 26, 2026 4:10 PM\nTo: Kavya R <kavya@example.org>\nSubject: Signage for the Delhi office\n\nHi Kavya,\n\nThe new Delhi office opens next month. We need the signage text finalised by Friday.\n\nRegards,\nArun\n\n-----Original Message-----\nFrom: Arun Mehta <arun@example.org>\nSent: Monday, October 26, 2026 4:10 PM\nTo: Kavya R <kavya@example.org>\nSubject: Signage for the Delhi office\n\nHi Kavya,\n\nThe new Delhi office opens next month. We need the signage text finalised by Friday.\n\nRegards,\nArun\n\nThis email and any attachments are confidential and intended solely for the addressee.",
+  "gold": [
+   {
+    "pages": [
+     "Delhi"
+    ],
+    "keywords": [
+     "hindi",
+     "official"
+    ]
+   }
+  ],
+  "answer_keywords": [
+   "hindi"
+  ]
+ },
+ {
+  "id": "t12",
+  "category": "two-questions",
+  "answerable": true,
+  "thread": "Hi Joseph,\n\nTwo things for the north-east report: what is the capital of Assam, and what is the official language of Nagaland?\n\nRegards,\nMaya",
+  "gold": [
+   {
+    "pages": [
+     "Assam"
+    ],
+    "keywords": [
+     "dispur"
+    ]
+   },
+   {
+    "pages": [
+     "Nagaland"
+    ],
+    "keywords": [
+     "english",
+     "official"
+    ]
+   }
+  ],
+  "answer_keywords": [
+   "dispur",
+   "english"
+  ]
+ },
+ {
+  "id": "t13",
+  "category": "two-questions",
+  "answerable": true,
+  "thread": "Subject: Gujarat trip\n\nHi,\n\nWhat is the capital of Gujarat, and which is its largest city?\n\nThanks,\nHarsh",
+  "gold": [
+   {
+    "pages": [
+     "Gujarat"
+    ],
+    "keywords": [
+     "gandhinagar"
+    ]
+   },
+   {
+    "pages": [
+     "Gujarat"
+    ],
+    "keywords": [
+     "ahmedabad",
+     "largest"
+    ]
+   }
+  ],
+  "answer_keywords": [
+   "gandhinagar",
+   "ahmedabad"
+  ]
+ },
+ {
+  "id": "t14",
+  "category": "numeric-compare",
+  "answerable": true,
+  "thread": "Compare the literacy rate of Kerala and Bihar. Which one is higher?",
+  "gold": [
+   {
+    "pages": [
+     "Kerala"
+    ],
+    "keywords": [
+     "literacy"
+    ]
+   },
+   {
+    "pages": [
+     "Bihar"
+    ],
+    "keywords": [
+     "literacy"
+    ]
+   }
+  ],
+  "answer_keywords": [
+   "kerala"
+  ]
+ },
+ {
+  "id": "t15",
+  "category": "table",
+  "answerable": true,
+  "thread": "How many districts does Kerala have?",
+  "gold": [
+   {
+    "pages": [
+     "Kerala",
+     "List of districts of Kerala"
+    ],
+    "keywords": [
+     "14",
+     "district"
+    ]
+   }
+  ],
+  "answer_keywords": [
+   "14"
+  ]
+ },
+ {
+  "id": "t16",
+  "category": "table",
+  "answerable": true,
+  "thread": "Subject: District offices\n\nHi Deepa,\n\nHow many districts are there in Tamil Nadu? We need one office per district.\n\nThanks,\nSuresh",
+  "gold": [
+   {
+    "pages": [
+     "Tamil Nadu",
+     "List of districts of Tamil Nadu"
+    ],
+    "keywords": [
+     "38",
+     "district"
+    ]
+   }
+  ],
+  "answer_keywords": [
+   "38"
+  ]
+ },
+ {
+  "id": "t17",
+  "category": "easy",
+  "answerable": true,
+  "thread": "When did Ladakh become a union territory?",
+  "gold": [
+   {
+    "pages": [
+     "Ladakh"
+    ],
+    "keywords": [
+     "2019",
+     "union territory"
+    ]
+   }
+  ],
+  "answer_keywords": [
+   "2019"
+  ]
+ },
+ {
+  "id": "t18",
+  "category": "easy",
+  "answerable": true,
+  "thread": "On which date was Telangana formed as a state?",
+  "gold": [
+   {
+    "pages": [
+     "Telangana"
+    ],
+    "keywords": [
+     "2 june 2014"
+    ]
+   }
+  ],
+  "answer_keywords": [
+   "2014"
+  ]
+ },
+ {
+  "id": "t19",
+  "category": "multi-hop",
+  "answerable": true,
+  "thread": "Chandigarh is the capital of which states?",
+  "gold": [
+   {
+    "pages": [
+     "Chandigarh"
+    ],
+    "keywords": [
+     "punjab",
+     "haryana",
+     "capital"
+    ]
+   }
+  ],
+  "answer_keywords": [
+   "punjab",
+   "haryana"
+  ]
+ },
+ {
+  "id": "t20",
+  "category": "multi-turn",
+  "answerable": true,
+  "thread": "Subject: Re: Winter session\n\nGot it. And which city is the winter capital of that state?\n\nThanks,\nIsha\n\nOn Thu, 22 Oct 2026 at 18:20, Kunal Desai <kunal@example.org> wrote:\n> Hi Isha,\n> The legislature visit is in Maharashtra; Mumbai is the main capital.\n>\n> Regards,\n> Kunal",
+  "gold": [
+   {
+    "pages": [
+     "Maharashtra"
+    ],
+    "keywords": [
+     "nagpur",
+     "winter"
+    ]
+   }
+  ],
+  "answer_keywords": [
+   "nagpur"
+  ]
+ },
+ {
+  "id": "t21",
+  "category": "easy",
+  "answerable": true,
+  "thread": "Subject: Island office\n\nHi Fathima,\n\nWhat is the capital of Lakshadweep? Need it for the courier address.\n\nThanks,\nRahim",
+  "gold": [
+   {
+    "pages": [
+     "Lakshadweep"
+    ],
+    "keywords": [
+     "kavaratti"
+    ]
+   }
+  ],
+  "answer_keywords": [
+   "kavaratti"
+  ]
+ },
+ {
+  "id": "t22",
+  "category": "unanswerable",
+  "answerable": false,
+  "thread": "Subject: Quick check\n\nHi team,\n\nDoes anyone know who won the FIFA World Cup in 2022? Need it for the quiz slide.\n\nCheers,\nRahul",
+  "gold": [],
+  "answer_keywords": []
+ },
+ {
+  "id": "t23",
+  "category": "unanswerable",
+  "answerable": false,
+  "thread": "What is the capital of Japan?",
+  "gold": [],
+  "answer_keywords": []
+ },
+ {
+  "id": "t24",
+  "category": "unanswerable",
+  "answerable": false,
+  "thread": "Subject: Forecast\n\nHi,\n\nWhat will Kerala's GDP be in the year 2040?\n\nThanks,\nAnil",
+  "gold": [],
+  "answer_keywords": []
+ },
+ {
+  "id": "t25",
+  "category": "unanswerable",
+  "answerable": false,
+  "thread": "How many moons does Jupiter have?",
+  "gold": [],
+  "answer_keywords": []
+ }
+]

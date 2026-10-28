@@ -1,0 +1,71 @@
+W1029 00:33:11.132000 55224 .venv/lib/python3.14/site-packages/torch/distributed/elastic/multiprocessing/redirects.py:35] NOTE: Redirects are currently not supported in MacOs.
+Loading weights:   0%|          | 0/105 [00:00<?, ?it/s]Loading weights: 100%|██████████| 105/105 [00:00<00:00, 7355.60it/s]
+Loading weights:   0%|          | 0/199 [00:00<?, ?it/s]Loading weights: 100%|██████████| 199/199 [00:00<00:00, 7428.37it/s]
+[1/25] t01 easy: 1 question(s), 7.2 s
+[2/25] t02 easy: 1 question(s), 5.9 s
+[3/25] t03 easy: 1 question(s), 6.9 s
+[4/25] t04 easy: 1 question(s), 2.9 s
+[5/25] t05 alias: 1 question(s), 5.0 s
+[6/25] t06 alias: 1 question(s), 6.1 s
+[7/25] t07 paraphrase: 1 question(s), 2.4 s
+[8/25] t08 multi-turn: 1 question(s), 8.9 s
+[9/25] t09 numeric-compare: 1 question(s), 7.7 s
+[10/25] t10 follow-up: 1 question(s), 4.4 s
+[11/25] t11 noisy: 1 question(s), 5.6 s
+[12/25] t12 two-questions: 2 question(s), 3.7 s
+[13/25] t13 two-questions: 2 question(s), 7.7 s
+[14/25] t14 numeric-compare: 1 question(s), 2.8 s
+[15/25] t15 table: 1 question(s), 2.9 s
+[16/25] t16 table: 1 question(s), 2.3 s
+[17/25] t17 easy: 1 question(s), 5.0 s
+[18/25] t18 easy: 1 question(s), 2.3 s
+[19/25] t19 multi-hop: 1 question(s), 2.6 s
+[20/25] t20 multi-turn: 1 question(s), 2.2 s
+[21/25] t21 easy: 1 question(s), 4.9 s
+[22/25] t22 unanswerable: 1 question(s), 2.7 s
+[23/25] t23 unanswerable: 1 question(s), 3.0 s
+[24/25] t24 unanswerable: 1 question(s), 4.5 s
+[25/25] t25 unanswerable: 1 question(s), 3.1 s
+
+Retrieval (25 gold items, answerable cases)
+stage  | recall@5 | MRR@10 | nDCG@5
+dense  | 0.880    | 0.667  | 0.551
+bm25   | 0.800    | 0.700  | 0.495
+rrf    | 0.880    | 0.743  | 0.558
+mmr    | 0.880    | 0.673  | 0.529
+final  | 0.920    | 0.768  | 0.638
+
+Final recall@5 per category:
+  easy            1.000
+  alias           1.000
+  paraphrase      0.000
+  multi-turn      1.000
+  numeric-compare 0.750
+  follow-up       1.000
+  noisy           1.000
+  two-questions   1.000
+  table           1.000
+  multi-hop       1.000
+
+Not-found decision: accuracy 0.920
+  answerable_answered: 19
+  answerable_missed: 2
+  unanswerable_rejected: 4
+  unanswerable_answered: 0
+Threshold sweep (case score >= tau means answerable):
+  tau 0.01  accuracy 0.960
+  tau 0.05  accuracy 0.960
+  tau 0.1   accuracy 0.960
+  tau 0.2   accuracy 0.920
+  tau 0.3   accuracy 0.920
+  tau 0.5   accuracy 0.920
+  tau 0.7   accuracy 0.920
+  tau 0.9   accuracy 0.920
+
+Answer quality (19 answered answerable cases)
+  answer_accuracy: 1.000
+  citation_rate: 1.000
+  invalid_citations: 0
+  number grounding: 21/21 (1.000)
+
+Saved /Users/smrit1/Desktop/RAG_thread/data/eval/metrics.json and /Users/smrit1/Desktop/RAG_thread/data/eval/per_case.csv

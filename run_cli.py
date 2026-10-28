@@ -29,7 +29,11 @@ def main():
         print(USAGE)
         sys.exit(1)
 
-    out = run_pipeline(text)
+    try:
+        out = run_pipeline(text)
+    except Exception as e:
+        print("Pipeline failed: " + str(e)[:300])
+        sys.exit(1)
 
     print("=== Cleaned thread ===")
     print(thread_to_text(out["parsed"]))
@@ -57,11 +61,12 @@ def main():
         print_ranked(ret["final"], 5)
         print("  Best score:", round(ret["best_score"], 4))
         print("\n  Answer:", ans["answer"])
-        if len(ans["cited"]) > 0:
+        if len(ans["sources"]) > 0:
             print("  Sources:")
             for j in range(len(ans["sources"])):
                 src = ans["sources"][j]
-                if src["n"] in ans["cited"]:
+                # nothing cited (e.g. LLM unavailable): show all retrieved sources
+                if len(ans["cited"]) == 0 or src["n"] in ans["cited"]:
                     print("    [" + str(src["n"]) + "] " + src["page"] + " § " + src["section"] + " - " + src["url"])
         if ans.get("invalid_citations", 0) > 0:
             print("  Invalid citations:", ans["invalid_citations"])

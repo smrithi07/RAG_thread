@@ -1,0 +1,76 @@
+{
+ "retrieval": {
+  "dense": {
+   "recall@5": 0.88,
+   "mrr@10": 0.6666666666666667,
+   "ndcg@5": 0.54656787952464,
+   "gold_items": 25
+  },
+  "bm25": {
+   "recall@5": 0.76,
+   "mrr@10": 0.6933333333333332,
+   "ndcg@5": 0.47694047780337834,
+   "gold_items": 25
+  },
+  "rrf": {
+   "recall@5": 0.88,
+   "mrr@10": 0.7433333333333333,
+   "ndcg@5": 0.5528241706597001,
+   "gold_items": 25
+  },
+  "mmr": {
+   "recall@5": 0.88,
+   "mrr@10": 0.6733333333333335,
+   "ndcg@5": 0.5290283205020141,
+   "gold_items": 25
+  },
+  "final": {
+   "recall@5": 0.92,
+   "mrr@10": 0.7746666666666667,
+   "ndcg@5": 0.6401673028455551,
+   "gold_items": 25
+  }
+ },
+ "final_recall_by_category": {
+  "easy": 1.0,
+  "alias": 1.0,
+  "paraphrase": 0.0,
+  "multi-turn": 1.0,
+  "numeric-compare": 0.75,
+  "follow-up": 1.0,
+  "noisy": 1.0,
+  "two-questions": 1.0,
+  "table": 1.0,
+  "multi-hop": 1.0
+ },
+ "decision": {
+  "accuracy": 0.96,
+  "counts": {
+   "answerable_answered": 20,
+   "answerable_missed": 1,
+   "unanswerable_rejected": 4,
+   "unanswerable_answered": 0
+  },
+  "threshold_sweep": {
+   "0.01": 0.96,
+   "0.05": 0.96,
+   "0.1": 0.96,
+   "0.2": 0.92,
+   "0.3": 0.92,
+   "0.5": 0.92,
+   "0.7": 0.92,
+   "0.9": 0.92
+  }
+ },
+ "answer_quality": {
+  "cases_checked": 20,
+  "answer_accuracy": 1.0,
+  "citation_rate": 1.0,
+  "invalid_citations": 0,
+  "numbers_grounded": 29,
+  "numbers_total": 29,
+  "number_grounding": 1.0
+ },
+ "cases": 25,
+ "errors": 0
+}

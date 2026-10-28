@@ -5,6 +5,7 @@ from src.llm import call_gemini
 from src.rewrite import read_prompt
 
 NOT_FOUND_TEXT = "Not found in the Wikipedia pages on Indian states and union territories."
+LLM_DOWN_TEXT = "LLM unavailable - top retrieved evidence shown below."
 
 
 def not_found():
@@ -18,7 +19,7 @@ def build_context(final, chunks):
         idx, score = final[i]
         c = chunks[idx]
         n = i + 1
-        lines.append("[" + str(n) + "] (" + c["page"] + " § " + c["section"] + ", " + c["type"] + ") " + c["body"])
+        lines.append("[" + str(n) + "] " + c["text"])
         sources.append({"n": n, "page": c["page"], "section": c["section"], "type": c["type"],
                         "url": c["url"], "score": score})
     return "\n\n".join(lines), sources
@@ -30,7 +31,10 @@ def answer_question(question, result, chunks):
 
     context, sources = build_context(result["final"], chunks)
     prompt = read_prompt(config.ANSWER_PROMPT).replace("{question}", question).replace("{context}", context)
-    text = call_gemini(prompt).strip()
+    try:
+        text = call_gemini(prompt).strip()
+    except RuntimeError:
+        return {"answer": LLM_DOWN_TEXT, "found": True, "sources": sources, "cited": [], "invalid_citations": 0}
     if text == "NOT_FOUND":
         return not_found()
 

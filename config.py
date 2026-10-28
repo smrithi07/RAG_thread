@@ -45,3 +45,10 @@ ALIASES_FILE = os.path.join(DATA_DIR, "aliases.json")
 REWRITE_PROMPT = os.path.join(PROMPT_DIR, "rewrite.txt")
 ANSWER_PROMPT = os.path.join(PROMPT_DIR, "answer.txt")
 GEMINI_TEMPERATURE = 0.0
+GEMINI_FALLBACK_MODEL = os.getenv("GEMINI_FALLBACK_MODEL", "")
+
+EVAL_DIR = os.path.join(DATA_DIR, "eval")
+TEST_FILE = os.path.join(DATA_DIR, "test_threads.json")
+EVAL_K = 5
+EVAL_MRR_K = 10
+EVAL_SLEEP = 4

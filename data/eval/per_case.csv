@@ -1,0 +1,26 @@
+id,category,answerable,n_questions,questions,best_score,answered,correct_decision,answer_correct,answer
+t01,easy,True,1,What is the capital of Kerala?,0.9991,True,True,True,the capital of kerala is thiruvananthapuram [1][2][3].
+t02,easy,True,1,Could you tell me the capital city of Karnataka?,0.9906,True,True,True,"the capital of karnataka is bengaluru [1][2][3]. additionally, one source lists bengaluru as the summer capital and belagavi as the winter capital [4]"
+t03,easy,True,1,What is the official animal of the Andaman and Nicobar Islands?,0.9999,True,True,True,the official animal of the andaman and nicobar islands is the dugong (dugong dugon) [1].
+t04,easy,True,1,Which union territory has Port Blair as its capital?,0.9993,True,True,True,the union territory with port blair as its capital is andaman and nicobar islands [1][2][4].
+t05,alias,True,1,"For the survey plan, how many districts are there in Uttar Pradesh right now?",0.9985,True,True,True,"uttar pradesh has 75 districts [1][2][3]. additionally, the maha kumbh area of prayagraj was declared as the 76th district as of 2 december 2024, but "
+t06,alias,True,1,In which year was Odisha officially renamed?,0.9968,True,True,True,odisha was officially renamed in 2011 [1][3].
+t07,paraphrase,True,1,Which Indian state is known as God's Own Country?,0.1694,False,False,False,not found in the wikipedia pages on indian states and union territories.
+t08,multi-turn,True,1,Which language is the official language of Odisha?,0.9998,True,True,True,"odia is the official language of odisha [1][2][4]. additionally, english serves as an official language of correspondence between the state government"
+t09,numeric-compare,True,1,"Between Rajasthan and Madhya Pradesh, which one is the larger state by area?",0.9955,True,True,True,"rajasthan is the largest indian state by area [2][3], whereas madhya pradesh is the second largest indian state by area [1]. therefore, rajasthan is t"
+t10,follow-up,True,1,Which Indian state or union territory has Shillong as its capital?,0.9992,True,True,True,the indian state of meghalaya has shillong as its capital [1][2].
+t11,noisy,True,1,What is the official language of Delhi?,0.9998,True,True,True,"hindi is the official language of delhi [1][2][5]. english is also listed as an official language [2][5]. additionally, urdu and punjabi have been dec"
+t12,two-questions,True,2,What is the capital of Assam? || What is the official language of Nagaland?,0.9998,True,True,True,"the capital of assam is dispur, located in the guwahati metropolitan region [1][3]. dibrugarh serves as the second capital [3], which was announced to"
+t13,two-questions,True,2,What is the capital of Gujarat? || Which is the largest city of Gujarat?,0.9998,True,True,True,"the capital of gujarat is gandhinagar [1][2][3][5], though ahmedabad was its first capital before it was moved in 1970 [4]. the largest city of gujara"
+t14,numeric-compare,True,1,Which of the literacy rates of Kerala and Bihar is higher?,0.994,True,True,True,"kerala has a literacy rate of 94% (2011 census) [1], 96.2% (2018 survey) [1], or 93.9% (2011 census) [3], while bihar has a literacy rate of 74.3% (20"
+t15,table,True,1,How many districts does Kerala have?,0.9996,True,True,True,kerala has 14 districts [1][2][5].
+t16,table,True,1,How many districts are there in Tamil Nadu?,0.9998,True,True,True,"tamil nadu is divided into 38 districts [1][2][4]. in 2011, the state had 32 districts [3]."
+t17,easy,True,1,When did Ladakh become a union territory?,0.9999,True,True,True,"ladakh became a union territory in 2019 as per the jammu and kashmir reorganisation act [1], specifically on 31 october 2019 following the passage of "
+t18,easy,True,1,On which date was Telangana formed as a state?,0.9998,True,True,True,the state of telangana was officially formed on 2 june 2014 [1][3][5].
+t19,multi-hop,True,1,Chandigarh is the capital of which states?,0.9999,True,True,True,chandigarh serves as a shared capital for the states of punjab and haryana [1].
+t20,multi-turn,True,1,Which city is the winter capital of Maharashtra?,0.9997,True,True,True,nagpur is the winter capital of maharashtra [1][2][5].
+t21,easy,True,1,What is the capital of Lakshadweep?,0.999,True,True,True,the capital of lakshadweep is kavaratti [1][2][3].
+t22,unanswerable,False,1,Who won the FIFA World Cup in 2022?,0.0083,False,True,,not found in the wikipedia pages on indian states and union territories.
+t23,unanswerable,False,1,What is the capital of Japan?,0.0014,False,True,,not found in the wikipedia pages on indian states and union territories.
+t24,unanswerable,False,1,What will Kerala's GDP be in the year 2040?,0.9986,False,True,,not found in the wikipedia pages on indian states and union territories.
+t25,unanswerable,False,1,How many moons does Jupiter have?,0.0,False,True,,not found in the wikipedia pages on indian states and union territories.

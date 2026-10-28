@@ -26,14 +26,19 @@ def call_gemini(prompt, json_mode=False):
     # outside the retry loop so a missing key fails at once
     c = get_client()
 
-    waits = [5, 10, 20]
-    for attempt in range(len(waits) + 1):
-        try:
-            response = c.models.generate_content(model=config.GEMINI_MODEL, contents=prompt,
-                                                            config=settings)
-            return response.text
-        except Exception as e:
-            if attempt == len(waits):
-                raise
-            print("  Gemini error, retrying in", waits[attempt], "s:", e)
-            time.sleep(waits[attempt])
+    models = [config.GEMINI_MODEL]
+    if config.GEMINI_FALLBACK_MODEL != "":
+        models.append(config.GEMINI_FALLBACK_MODEL)
+
+    last_error = ""
+    for m in range(len(models)):
+        for attempt in range(2):
+            try:
+                response = c.models.generate_content(model=models[m], contents=prompt, config=settings)
+                return response.text
+            except Exception as e:
+                last_error = str(e)
+                print("  Gemini " + models[m] + " failed: " + last_error[:80])
+                if attempt == 0:
+                    time.sleep(5)
+    raise RuntimeError("Gemini unavailable (" + last_error[:120] + "). Try again or change GEMINI_MODEL in .env")

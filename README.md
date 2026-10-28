@@ -86,17 +86,16 @@ If anything fails, see [Troubleshooting](#troubleshooting).
 
 ## Contents
 1. [Features](#features)
-2. [Architecture](#architecture)
-3. [Prerequisites](#prerequisites)
-4. [Setup](#setup)
-5. [Run the app (Streamlit)](#run-the-app-streamlit)
-6. [Run from the command line](#run-from-the-command-line)
-7. [Evaluation](#evaluation)
-8. [Rebuilding the data (optional)](#rebuilding-the-data-optional)
-9. [Project structure](#project-structure)
-10. [Configuration](#configuration)
-11. [Troubleshooting](#troubleshooting)
-12. [Limitations and future work](#limitations-and-future-work)
+2. [Prerequisites](#prerequisites)
+3. [Setup](#setup)
+4. [Run the app (Streamlit)](#run-the-app-streamlit)
+5. [Run from the command line](#run-from-the-command-line)
+6. [Evaluation](#evaluation)
+7. [Rebuilding the data (optional)](#rebuilding-the-data-optional)
+8. [Project structure](#project-structure)
+9. [Configuration](#configuration)
+10. [Troubleshooting](#troubleshooting)
+11. [Limitations and future work](#limitations-and-future-work)
 
 ---
 
@@ -110,43 +109,6 @@ If anything fails, see [Troubleshooting](#troubleshooting).
 - **Two "not found" gates:** a re-rank score threshold (no LLM call) and the LLM's own `NOT_FOUND` reply.
 - **Robust to API problems:** an automatic fallback model, and if Gemini is unavailable the retrieved evidence is still shown.
 - **Evaluation:** recall@5, MRR@10, nDCG@5 for every retrieval stage, not-found accuracy with a threshold sweep, and a faithfulness check.
-
----
-
-## Architecture
-
-```mermaid
-flowchart TD
-    subgraph Offline["Offline: build the knowledge base (already done, files included)"]
-        A[data/pages.txt<br/>37 titles] --> B[wiki_loader.py<br/>Wikipedia API + BeautifulSoup]
-        B --> C[data/raw/*.json<br/>sections, tables, infobox, captions]
-        C --> D[chunker.py<br/>section-aware chunks<br/>table rows → sentences<br/>MinHash/LSH dedup]
-        D --> E[data/index/chunks.json]
-        E --> F[index.py<br/>bge-small embeddings → embeddings.npy]
-        E --> G[bm25.py<br/>inverted index, built at load]
-    end
-
-    subgraph Online["Online: answer a thread"]
-        H[Email thread / text] --> I[parse_thread.py<br/>split, de-quote, strip signatures,<br/>MinHash dedup]
-        I --> J[rewrite.py<br/>Gemini → standalone questions]
-        J --> K[retrieve.py]
-        K --> K1[Entity filter]
-        K1 --> K2[Dense top-50]
-        K1 --> K3[BM25 top-50]
-        K2 --> K4[RRF fusion → top-30]
-        K3 --> K4
-        K4 --> K5[MMR → 15]
-        K5 --> K6[Cross-encoder → top-5]
-        K6 --> L{best score ≥ τ?}
-        L -- no --> M[Not found]
-        L -- yes --> N[answer.py<br/>Gemini grounded answer + citations]
-        N --> O[Streamlit app / CLI]
-        M --> O
-    end
-
-    F -.-> K2
-    G -.-> K3
-```
 
 ---
 

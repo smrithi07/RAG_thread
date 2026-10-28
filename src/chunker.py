@@ -46,6 +46,8 @@ def row_to_sentence(columns, row):
             col = columns[i].strip()
         else:
             col = ""
+        if col.isdigit():
+            col = ""
         if value == "" or value == col:
             continue
         if col == "Map" or col.startswith("Unnamed"):

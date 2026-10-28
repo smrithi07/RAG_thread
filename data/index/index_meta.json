@@ -1,0 +1,5 @@
+{
+ "model": "BAAI/bge-small-en-v1.5",
+ "num_chunks": 7470,
+ "dim": 384
+}

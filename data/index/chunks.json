@@ -545,8 +545,8 @@
   "url": "https://en.wikipedia.org/wiki/Andaman_and_Nicobar_Islands",
   "section": "Geography > Flora and fauna",
   "type": "table",
-  "body": "0: Animal, 1: Dugong (Dugong dugon), 3: Bird, 4: Andaman wood pigeon (Columba palumboides)",
-  "text": "Andaman and Nicobar Islands | Geography > Flora and fauna | Official symbols of Andaman and Nicobar | 0: Animal, 1: Dugong (Dugong dugon), 3: Bird, 4: Andaman wood pigeon (Columba palumboides)"
+  "body": "Animal, Dugong (Dugong dugon), Bird, Andaman wood pigeon (Columba palumboides)",
+  "text": "Andaman and Nicobar Islands | Geography > Flora and fauna | Official symbols of Andaman and Nicobar | Animal, Dugong (Dugong dugon), Bird, Andaman wood pigeon (Columba palumboides)"
  },
  {
   "id": 61,
@@ -554,8 +554,8 @@
   "url": "https://en.wikipedia.org/wiki/Andaman_and_Nicobar_Islands",
   "section": "Geography > Flora and fauna",
   "type": "table",
-  "body": "0: Tree, 1: Andaman padauk (Pterocarpus dalbergioides), 3: Flower, 4: Pyinma (Lagerstroemia hypoleuca)",
-  "text": "Andaman and Nicobar Islands | Geography > Flora and fauna | Official symbols of Andaman and Nicobar | 0: Tree, 1: Andaman padauk (Pterocarpus dalbergioides), 3: Flower, 4: Pyinma (Lagerstroemia hypoleuca)"
+  "body": "Tree, Andaman padauk (Pterocarpus dalbergioides), Flower, Pyinma (Lagerstroemia hypoleuca)",
+  "text": "Andaman and Nicobar Islands | Geography > Flora and fauna | Official symbols of Andaman and Nicobar | Tree, Andaman padauk (Pterocarpus dalbergioides), Flower, Pyinma (Lagerstroemia hypoleuca)"
  },
  {
   "id": 62,
@@ -9599,8 +9599,8 @@
   "url": "https://en.wikipedia.org/wiki/Chhattisgarh",
   "section": "Demographics > Gender ratio",
   "type": "table",
-  "body": "Year: India, 1901: 972, 1911: 964, 1921: 955, 1931: 950, 1941: 945, 1951: 946, 1961: 941, 1971: 930, 1981: 934, 1991: 927, 2001: 933, 2011: 940",
-  "text": "Chhattisgarh | Demographics > Gender ratio | Year: India, 1901: 972, 1911: 964, 1921: 955, 1931: 950, 1941: 945, 1951: 946, 1961: 941, 1971: 930, 1981: 934, 1991: 927, 2001: 933, 2011: 940"
+  "body": "Year: India, 972, 964, 955, 950, 945, 946, 941, 930, 934, 927, 933, 940",
+  "text": "Chhattisgarh | Demographics > Gender ratio | Year: India, 972, 964, 955, 950, 945, 946, 941, 930, 934, 927, 933, 940"
  },
  {
   "id": 1067,
@@ -9608,8 +9608,8 @@
   "url": "https://en.wikipedia.org/wiki/Chhattisgarh",
   "section": "Demographics > Gender ratio",
   "type": "table",
-  "body": "Year: Chhattisgarh, 1901: 1046, 1911: 1039, 1921: 1041, 1931: 1043, 1941: 1032, 1951: 1024, 1961: 1008, 1971: 998, 1981: 998, 1991: 985, 2001: 989, 2011: 991",
-  "text": "Chhattisgarh | Demographics > Gender ratio | Year: Chhattisgarh, 1901: 1046, 1911: 1039, 1921: 1041, 1931: 1043, 1941: 1032, 1951: 1024, 1961: 1008, 1971: 998, 1981: 998, 1991: 985, 2001: 989, 2011: 991"
+  "body": "Year: Chhattisgarh, 1046, 1039, 1041, 1043, 1032, 1024, 1008, 998, 998, 985, 989, 991",
+  "text": "Chhattisgarh | Demographics > Gender ratio | Year: Chhattisgarh, 1046, 1039, 1041, 1043, 1032, 1024, 1008, 998, 998, 985, 989, 991"
  },
  {
   "id": 1068,
@@ -12398,8 +12398,8 @@
   "url": "https://en.wikipedia.org/wiki/Goa",
   "section": "Economy",
   "type": "table",
-  "body": "0: Gross state domestic product (in millions of rupees), 1: Gross state domestic product (in millions of rupees)",
-  "text": "Goa | Economy | 0: Gross state domestic product (in millions of rupees), 1: Gross state domestic product (in millions of rupees)"
+  "body": "Gross state domestic product (in millions of rupees), Gross state domestic product (in millions of rupees)",
+  "text": "Goa | Economy | Gross state domestic product (in millions of rupees), Gross state domestic product (in millions of rupees)"
  },
  {
   "id": 1378,
@@ -12407,8 +12407,8 @@
   "url": "https://en.wikipedia.org/wiki/Goa",
   "section": "Economy",
   "type": "table",
-  "body": "0: Year, 1: GSDP",
-  "text": "Goa | Economy | 0: Year, 1: GSDP"
+  "body": "Year, GSDP",
+  "text": "Goa | Economy | Year, GSDP"
  },
  {
   "id": 1379,
@@ -12416,8 +12416,8 @@
   "url": "https://en.wikipedia.org/wiki/Goa",
   "section": "Economy",
   "type": "table",
-  "body": "0: 1980, 1: 3980",
-  "text": "Goa | Economy | 0: 1980, 1: 3980"
+  "body": "1980, 3980",
+  "text": "Goa | Economy | 1980, 3980"
  },
  {
   "id": 1380,
@@ -12425,8 +12425,8 @@
   "url": "https://en.wikipedia.org/wiki/Goa",
   "section": "Economy",
   "type": "table",
-  "body": "0: 1985, 1: 6550",
-  "text": "Goa | Economy | 0: 1985, 1: 6550"
+  "body": "1985, 6550",
+  "text": "Goa | Economy | 1985, 6550"
  },
  {
   "id": 1381,
@@ -12434,8 +12434,8 @@
   "url": "https://en.wikipedia.org/wiki/Goa",
   "section": "Economy",
   "type": "table",
-  "body": "0: 1990, 1: 12570",
-  "text": "Goa | Economy | 0: 1990, 1: 12570"
+  "body": "1990, 12570",
+  "text": "Goa | Economy | 1990, 12570"
  },
  {
   "id": 1382,
@@ -12443,8 +12443,8 @@
   "url": "https://en.wikipedia.org/wiki/Goa",
   "section": "Economy",
   "type": "table",
-  "body": "0: 1995, 1: 33190",
-  "text": "Goa | Economy | 0: 1995, 1: 33190"
+  "body": "1995, 33190",
+  "text": "Goa | Economy | 1995, 33190"
  },
  {
   "id": 1383,
@@ -12452,8 +12452,8 @@
   "url": "https://en.wikipedia.org/wiki/Goa",
   "section": "Economy",
   "type": "table",
-  "body": "0: 2000, 1: 76980",
-  "text": "Goa | Economy | 0: 2000, 1: 76980"
+  "body": "2000, 76980",
+  "text": "Goa | Economy | 2000, 76980"
  },
  {
   "id": 1384,
@@ -12461,8 +12461,8 @@
   "url": "https://en.wikipedia.org/wiki/Goa",
   "section": "Economy",
   "type": "table",
-  "body": "0: 2010, 1: 150000",
-  "text": "Goa | Economy | 0: 2010, 1: 150000"
+  "body": "2010, 150000",
+  "text": "Goa | Economy | 2010, 150000"
  },
  {
   "id": 1385,
@@ -17141,8 +17141,8 @@
   "url": "https://en.wikipedia.org/wiki/Himachal_Pradesh",
   "section": "State profile",
   "type": "table",
-  "body": "0: Area, 1: 55,673 km2",
-  "text": "Himachal Pradesh | State profile | 0: Area, 1: 55,673 km2"
+  "body": "Area, 55,673 km2",
+  "text": "Himachal Pradesh | State profile | Area, 55,673 km2"
  },
  {
   "id": 1905,
@@ -17150,8 +17150,8 @@
   "url": "https://en.wikipedia.org/wiki/Himachal_Pradesh",
   "section": "State profile",
   "type": "table",
-  "body": "0: Total population, 1: 7781244",
-  "text": "Himachal Pradesh | State profile | 0: Total population, 1: 7781244"
+  "body": "Total population, 7781244",
+  "text": "Himachal Pradesh | State profile | Total population, 7781244"
  },
  {
   "id": 1906,
@@ -17159,8 +17159,8 @@
   "url": "https://en.wikipedia.org/wiki/Himachal_Pradesh",
   "section": "State profile",
   "type": "table",
-  "body": "0: Males, 1: 3946646",
-  "text": "Himachal Pradesh | State profile | 0: Males, 1: 3946646"
+  "body": "Males, 3946646",
+  "text": "Himachal Pradesh | State profile | Males, 3946646"
  },
  {
   "id": 1907,
@@ -17168,8 +17168,8 @@
   "url": "https://en.wikipedia.org/wiki/Himachal_Pradesh",
   "section": "State profile",
   "type": "table",
-  "body": "0: Females, 1: 3834598",
-  "text": "Himachal Pradesh | State profile | 0: Females, 1: 3834598"
+  "body": "Females, 3834598",
+  "text": "Himachal Pradesh | State profile | Females, 3834598"
  },
  {
   "id": 1908,
@@ -17177,8 +17177,8 @@
   "url": "https://en.wikipedia.org/wiki/Himachal_Pradesh",
   "section": "State profile",
   "type": "table",
-  "body": "0: Population density, 1: 123",
-  "text": "Himachal Pradesh | State profile | 0: Population density, 1: 123"
+  "body": "Population density, 123",
+  "text": "Himachal Pradesh | State profile | Population density, 123"
  },
  {
   "id": 1909,
@@ -17186,8 +17186,8 @@
   "url": "https://en.wikipedia.org/wiki/Himachal_Pradesh",
   "section": "State profile",
   "type": "table",
-  "body": "0: Sex ratio, 1: 972",
-  "text": "Himachal Pradesh | State profile | 0: Sex ratio, 1: 972"
+  "body": "Sex ratio, 972",
+  "text": "Himachal Pradesh | State profile | Sex ratio, 972"
  },
  {
   "id": 1910,
@@ -17195,8 +17195,8 @@
   "url": "https://en.wikipedia.org/wiki/Himachal_Pradesh",
   "section": "State profile",
   "type": "table",
-  "body": "0: Rural population, 1: 6176050",
-  "text": "Himachal Pradesh | State profile | 0: Rural population, 1: 6176050"
+  "body": "Rural population, 6176050",
+  "text": "Himachal Pradesh | State profile | Rural population, 6176050"
  },
  {
   "id": 1911,
@@ -17204,8 +17204,8 @@
   "url": "https://en.wikipedia.org/wiki/Himachal_Pradesh",
   "section": "State profile",
   "type": "table",
-  "body": "0: Urban population, 1: 688552",
-  "text": "Himachal Pradesh | State profile | 0: Urban population, 1: 688552"
+  "body": "Urban population, 688552",
+  "text": "Himachal Pradesh | State profile | Urban population, 688552"
  },
  {
   "id": 1912,
@@ -17213,8 +17213,8 @@
   "url": "https://en.wikipedia.org/wiki/Himachal_Pradesh",
   "section": "State profile",
   "type": "table",
-  "body": "0: Scheduled Caste population, 1: 1729252",
-  "text": "Himachal Pradesh | State profile | 0: Scheduled Caste population, 1: 1729252"
+  "body": "Scheduled Caste population, 1729252",
+  "text": "Himachal Pradesh | State profile | Scheduled Caste population, 1729252"
  },
  {
   "id": 1913,
@@ -17222,8 +17222,8 @@
   "url": "https://en.wikipedia.org/wiki/Himachal_Pradesh",
   "section": "State profile",
   "type": "table",
-  "body": "0: Scheduled Tribe population, 1: 392126",
-  "text": "Himachal Pradesh | State profile | 0: Scheduled Tribe population, 1: 392126"
+  "body": "Scheduled Tribe population, 392126",
+  "text": "Himachal Pradesh | State profile | Scheduled Tribe population, 392126"
  },
  {
   "id": 1914,
@@ -17231,8 +17231,8 @@
   "url": "https://en.wikipedia.org/wiki/Himachal_Pradesh",
   "section": "State profile",
   "type": "table",
-  "body": "0: Literacy rate, 1: 83.78%",
-  "text": "Himachal Pradesh | State profile | 0: Literacy rate, 1: 83.78%"
+  "body": "Literacy rate, 83.78%",
+  "text": "Himachal Pradesh | State profile | Literacy rate, 83.78%"
  },
  {
   "id": 1915,
@@ -17240,8 +17240,8 @@
   "url": "https://en.wikipedia.org/wiki/Himachal_Pradesh",
   "section": "State profile",
   "type": "table",
-  "body": "0: Male literacy, 1: 90.83%",
-  "text": "Himachal Pradesh | State profile | 0: Male literacy, 1: 90.83%"
+  "body": "Male literacy, 90.83%",
+  "text": "Himachal Pradesh | State profile | Male literacy, 90.83%"
  },
  {
   "id": 1916,
@@ -17249,8 +17249,8 @@
   "url": "https://en.wikipedia.org/wiki/Himachal_Pradesh",
   "section": "State profile",
   "type": "table",
-  "body": "0: Female literacy, 1: 76.60%",
-  "text": "Himachal Pradesh | State profile | 0: Female literacy, 1: 76.60%"
+  "body": "Female literacy, 76.60%",
+  "text": "Himachal Pradesh | State profile | Female literacy, 76.60%"
  },
  {
   "id": 1917,
@@ -17258,8 +17258,8 @@
   "url": "https://en.wikipedia.org/wiki/Himachal_Pradesh",
   "section": "State profile",
   "type": "table",
-  "body": "0: Capitals, 1: 2",
-  "text": "Himachal Pradesh | State profile | 0: Capitals, 1: 2"
+  "body": "Capitals, 2",
+  "text": "Himachal Pradesh | State profile | Capitals, 2"
  },
  {
   "id": 1918,
@@ -17267,8 +17267,8 @@
   "url": "https://en.wikipedia.org/wiki/Himachal_Pradesh",
   "section": "State profile",
   "type": "table",
-  "body": "0: Districts, 1: 12",
-  "text": "Himachal Pradesh | State profile | 0: Districts, 1: 12"
+  "body": "Districts, 12",
+  "text": "Himachal Pradesh | State profile | Districts, 12"
  },
  {
   "id": 1919,
@@ -17276,8 +17276,8 @@
   "url": "https://en.wikipedia.org/wiki/Himachal_Pradesh",
   "section": "State profile",
   "type": "table",
-  "body": "0: Sub-divisions, 1: 71",
-  "text": "Himachal Pradesh | State profile | 0: Sub-divisions, 1: 71"
+  "body": "Sub-divisions, 71",
+  "text": "Himachal Pradesh | State profile | Sub-divisions, 71"
  },
  {
   "id": 1920,
@@ -17285,8 +17285,8 @@
   "url": "https://en.wikipedia.org/wiki/Himachal_Pradesh",
   "section": "State profile",
   "type": "table",
-  "body": "0: Tehsils, 1: 169",
-  "text": "Himachal Pradesh | State profile | 0: Tehsils, 1: 169"
+  "body": "Tehsils, 169",
+  "text": "Himachal Pradesh | State profile | Tehsils, 169"
  },
  {
   "id": 1921,
@@ -17294,8 +17294,8 @@
   "url": "https://en.wikipedia.org/wiki/Himachal_Pradesh",
   "section": "State profile",
   "type": "table",
-  "body": "0: Sub-tehsils, 1: 38",
-  "text": "Himachal Pradesh | State profile | 0: Sub-tehsils, 1: 38"
+  "body": "Sub-tehsils, 38",
+  "text": "Himachal Pradesh | State profile | Sub-tehsils, 38"
  },
  {
   "id": 1922,
@@ -17303,8 +17303,8 @@
   "url": "https://en.wikipedia.org/wiki/Himachal_Pradesh",
   "section": "State profile",
   "type": "table",
-  "body": "0: Developmental blocks, 1: 78",
-  "text": "Himachal Pradesh | State profile | 0: Developmental blocks, 1: 78"
+  "body": "Developmental blocks, 78",
+  "text": "Himachal Pradesh | State profile | Developmental blocks, 78"
  },
  {
   "id": 1923,
@@ -17312,8 +17312,8 @@
   "url": "https://en.wikipedia.org/wiki/Himachal_Pradesh",
   "section": "State profile",
   "type": "table",
-  "body": "0: Towns, 1: 59",
-  "text": "Himachal Pradesh | State profile | 0: Towns, 1: 59"
+  "body": "Towns, 59",
+  "text": "Himachal Pradesh | State profile | Towns, 59"
  },
  {
   "id": 1924,
@@ -17321,8 +17321,8 @@
   "url": "https://en.wikipedia.org/wiki/Himachal_Pradesh",
   "section": "State profile",
   "type": "table",
-  "body": "0: Panchayats, 1: 3243",
-  "text": "Himachal Pradesh | State profile | 0: Panchayats, 1: 3243"
+  "body": "Panchayats, 3243",
+  "text": "Himachal Pradesh | State profile | Panchayats, 3243"
  },
  {
   "id": 1925,
@@ -17330,8 +17330,8 @@
   "url": "https://en.wikipedia.org/wiki/Himachal_Pradesh",
   "section": "State profile",
   "type": "table",
-  "body": "0: Panchayat smities, 1: 77",
-  "text": "Himachal Pradesh | State profile | 0: Panchayat smities, 1: 77"
+  "body": "Panchayat smities, 77",
+  "text": "Himachal Pradesh | State profile | Panchayat smities, 77"
  },
  {
   "id": 1926,
@@ -17339,8 +17339,8 @@
   "url": "https://en.wikipedia.org/wiki/Himachal_Pradesh",
   "section": "State profile",
   "type": "table",
-  "body": "0: Zila parishad, 1: 12",
-  "text": "Himachal Pradesh | State profile | 0: Zila parishad, 1: 12"
+  "body": "Zila parishad, 12",
+  "text": "Himachal Pradesh | State profile | Zila parishad, 12"
  },
  {
   "id": 1927,
@@ -17348,8 +17348,8 @@
   "url": "https://en.wikipedia.org/wiki/Himachal_Pradesh",
   "section": "State profile",
   "type": "table",
-  "body": "0: Urban local bodies, 1: 59",
-  "text": "Himachal Pradesh | State profile | 0: Urban local bodies, 1: 59"
+  "body": "Urban local bodies, 59",
+  "text": "Himachal Pradesh | State profile | Urban local bodies, 59"
  },
  {
   "id": 1928,
@@ -17357,8 +17357,8 @@
   "url": "https://en.wikipedia.org/wiki/Himachal_Pradesh",
   "section": "State profile",
   "type": "table",
-  "body": "0: Nagar nigams, 1: 8",
-  "text": "Himachal Pradesh | State profile | 0: Nagar nigams, 1: 8"
+  "body": "Nagar nigams, 8",
+  "text": "Himachal Pradesh | State profile | Nagar nigams, 8"
  },
  {
   "id": 1929,
@@ -17366,8 +17366,8 @@
   "url": "https://en.wikipedia.org/wiki/Himachal_Pradesh",
   "section": "State profile",
   "type": "table",
-  "body": "0: Nagar parishads, 1: 25",
-  "text": "Himachal Pradesh | State profile | 0: Nagar parishads, 1: 25"
+  "body": "Nagar parishads, 25",
+  "text": "Himachal Pradesh | State profile | Nagar parishads, 25"
  },
  {
   "id": 1930,
@@ -17375,8 +17375,8 @@
   "url": "https://en.wikipedia.org/wiki/Himachal_Pradesh",
   "section": "State profile",
   "type": "table",
-  "body": "0: Nagar panchayats, 1: 23",
-  "text": "Himachal Pradesh | State profile | 0: Nagar panchayats, 1: 23"
+  "body": "Nagar panchayats, 23",
+  "text": "Himachal Pradesh | State profile | Nagar panchayats, 23"
  },
  {
   "id": 1931,
@@ -17384,8 +17384,8 @@
   "url": "https://en.wikipedia.org/wiki/Himachal_Pradesh",
   "section": "State profile",
   "type": "table",
-  "body": "0: Census villages, 1: 20690",
-  "text": "Himachal Pradesh | State profile | 0: Census villages, 1: 20690"
+  "body": "Census villages, 20690",
+  "text": "Himachal Pradesh | State profile | Census villages, 20690"
  },
  {
   "id": 1932,
@@ -17393,8 +17393,8 @@
   "url": "https://en.wikipedia.org/wiki/Himachal_Pradesh",
   "section": "State profile",
   "type": "table",
-  "body": "0: Inhabited villages, 1: 17882",
-  "text": "Himachal Pradesh | State profile | 0: Inhabited villages, 1: 17882"
+  "body": "Inhabited villages, 17882",
+  "text": "Himachal Pradesh | State profile | Inhabited villages, 17882"
  },
  {
   "id": 1933,
@@ -17402,8 +17402,8 @@
   "url": "https://en.wikipedia.org/wiki/Himachal_Pradesh",
   "section": "State profile",
   "type": "table",
-  "body": "0: Health institutions, 1: 3866",
-  "text": "Himachal Pradesh | State profile | 0: Health institutions, 1: 3866"
+  "body": "Health institutions, 3866",
+  "text": "Himachal Pradesh | State profile | Health institutions, 3866"
  },
  {
   "id": 1934,
@@ -17411,8 +17411,8 @@
   "url": "https://en.wikipedia.org/wiki/Himachal_Pradesh",
   "section": "State profile",
   "type": "table",
-  "body": "0: Educational institutions, 1: 17000",
-  "text": "Himachal Pradesh | State profile | 0: Educational institutions, 1: 17000"
+  "body": "Educational institutions, 17000",
+  "text": "Himachal Pradesh | State profile | Educational institutions, 17000"
  },
  {
   "id": 1935,
@@ -17420,8 +17420,8 @@
   "url": "https://en.wikipedia.org/wiki/Himachal_Pradesh",
   "section": "State profile",
   "type": "table",
-  "body": "0: Motorable roads, 1: 33,722 km",
-  "text": "Himachal Pradesh | State profile | 0: Motorable roads, 1: 33,722 km"
+  "body": "Motorable roads, 33,722 km",
+  "text": "Himachal Pradesh | State profile | Motorable roads, 33,722 km"
  },
  {
   "id": 1936,
@@ -17429,8 +17429,8 @@
   "url": "https://en.wikipedia.org/wiki/Himachal_Pradesh",
   "section": "State profile",
   "type": "table",
-  "body": "0: National highways, 1: 8",
-  "text": "Himachal Pradesh | State profile | 0: National highways, 1: 8"
+  "body": "National highways, 8",
+  "text": "Himachal Pradesh | State profile | National highways, 8"
  },
  {
   "id": 1937,
@@ -17438,8 +17438,8 @@
   "url": "https://en.wikipedia.org/wiki/Himachal_Pradesh",
   "section": "State profile",
   "type": "table",
-  "body": "0: Identified hydroelectric potential, 1: 23,000.43 MW in five rivers basins, i.e., Yamuna, Satluj, Beas, Ravi, Chenab and Himurja",
-  "text": "Himachal Pradesh | State profile | 0: Identified hydroelectric potential, 1: 23,000.43 MW in five rivers basins, i.e., Yamuna, Satluj, Beas, Ravi, Chenab and Himurja"
+  "body": "Identified hydroelectric potential, 23,000.43 MW in five rivers basins, i.e., Yamuna, Satluj, Beas, Ravi, Chenab and Himurja",
+  "text": "Himachal Pradesh | State profile | Identified hydroelectric potential, 23,000.43 MW in five rivers basins, i.e., Yamuna, Satluj, Beas, Ravi, Chenab and Himurja"
  },
  {
   "id": 1938,
@@ -17447,8 +17447,8 @@
   "url": "https://en.wikipedia.org/wiki/Himachal_Pradesh",
   "section": "State profile",
   "type": "table",
-  "body": "0: Potential harnessed, 1: 10,264 MW",
-  "text": "Himachal Pradesh | State profile | 0: Potential harnessed, 1: 10,264 MW"
+  "body": "Potential harnessed, 10,264 MW",
+  "text": "Himachal Pradesh | State profile | Potential harnessed, 10,264 MW"
  },
  {
   "id": 1939,
@@ -17456,8 +17456,8 @@
   "url": "https://en.wikipedia.org/wiki/Himachal_Pradesh",
   "section": "State profile",
   "type": "table",
-  "body": "0: Food grain production, 1: 15.28lakh MT",
-  "text": "Himachal Pradesh | State profile | 0: Food grain production, 1: 15.28lakh MT"
+  "body": "Food grain production, 15.28lakh MT",
+  "text": "Himachal Pradesh | State profile | Food grain production, 15.28lakh MT"
  },
  {
   "id": 1940,
@@ -17465,8 +17465,8 @@
   "url": "https://en.wikipedia.org/wiki/Himachal_Pradesh",
   "section": "State profile",
   "type": "table",
-  "body": "0: Vegetable production, 1: 18.67 lakh MT",
-  "text": "Himachal Pradesh | State profile | 0: Vegetable production, 1: 18.67 lakh MT"
+  "body": "Vegetable production, 18.67 lakh MT",
+  "text": "Himachal Pradesh | State profile | Vegetable production, 18.67 lakh MT"
  },
  {
   "id": 1941,
@@ -17474,8 +17474,8 @@
   "url": "https://en.wikipedia.org/wiki/Himachal_Pradesh",
   "section": "State profile",
   "type": "table",
-  "body": "0: Fruit production, 1: 1,027,000 tonnes",
-  "text": "Himachal Pradesh | State profile | 0: Fruit production, 1: 1,027,000 tonnes"
+  "body": "Fruit production, 1,027,000 tonnes",
+  "text": "Himachal Pradesh | State profile | Fruit production, 1,027,000 tonnes"
  },
  {
   "id": 1942,
@@ -17483,8 +17483,8 @@
   "url": "https://en.wikipedia.org/wiki/Himachal_Pradesh",
   "section": "State profile",
   "type": "table",
-  "body": "0: Per capita income, 1: ₹2,01,854 (2021–22)",
-  "text": "Himachal Pradesh | State profile | 0: Per capita income, 1: ₹2,01,854 (2021–22)"
+  "body": "Per capita income, ₹2,01,854 (2021–22)",
+  "text": "Himachal Pradesh | State profile | Per capita income, ₹2,01,854 (2021–22)"
  },
  {
   "id": 1943,
@@ -17492,8 +17492,8 @@
   "url": "https://en.wikipedia.org/wiki/Himachal_Pradesh",
   "section": "State profile",
   "type": "table",
-  "body": "0: Social Security pensions, 1: 237,250 persons, annual expenditure: over ₹ 600 million",
-  "text": "Himachal Pradesh | State profile | 0: Social Security pensions, 1: 237,250 persons, annual expenditure: over ₹ 600 million"
+  "body": "Social Security pensions, 237,250 persons, annual expenditure: over ₹ 600 million",
+  "text": "Himachal Pradesh | State profile | Social Security pensions, 237,250 persons, annual expenditure: over ₹ 600 million"
  },
  {
   "id": 1944,
@@ -17501,8 +17501,8 @@
   "url": "https://en.wikipedia.org/wiki/Himachal_Pradesh",
   "section": "State profile",
   "type": "table",
-  "body": "0: Investment in industrial areas, 1: ₹ 273.80 billion, employment opportunities: Over 337,391",
-  "text": "Himachal Pradesh | State profile | 0: Investment in industrial areas, 1: ₹ 273.80 billion, employment opportunities: Over 337,391"
+  "body": "Investment in industrial areas, ₹ 273.80 billion, employment opportunities: Over 337,391",
+  "text": "Himachal Pradesh | State profile | Investment in industrial areas, ₹ 273.80 billion, employment opportunities: Over 337,391"
  },
  {
   "id": 1945,
@@ -17510,8 +17510,8 @@
   "url": "https://en.wikipedia.org/wiki/Himachal_Pradesh",
   "section": "State profile",
   "type": "table",
-  "body": "0: Employment generated in government sector, 1: 217142",
-  "text": "Himachal Pradesh | State profile | 0: Employment generated in government sector, 1: 217142"
+  "body": "Employment generated in government sector, 217142",
+  "text": "Himachal Pradesh | State profile | Employment generated in government sector, 217142"
  },
  {
   "id": 1946,
@@ -23846,8 +23846,8 @@
   "url": "https://en.wikipedia.org/wiki/Lakshadweep",
   "section": "Geography > Flora and fauna",
   "type": "table",
-  "body": "0: Animal, 1: Butterfly fish (Chaetodon falcula), 3: Bird, 4: Sooty tern (Sterna fuscata)",
-  "text": "Lakshadweep | Geography > Flora and fauna | Symbols of Lakshadweep | 0: Animal, 1: Butterfly fish (Chaetodon falcula), 3: Bird, 4: Sooty tern (Sterna fuscata)"
+  "body": "Animal, Butterfly fish (Chaetodon falcula), Bird, Sooty tern (Sterna fuscata)",
+  "text": "Lakshadweep | Geography > Flora and fauna | Symbols of Lakshadweep | Animal, Butterfly fish (Chaetodon falcula), Bird, Sooty tern (Sterna fuscata)"
  },
  {
   "id": 2650,
@@ -23855,8 +23855,8 @@
   "url": "https://en.wikipedia.org/wiki/Lakshadweep",
   "section": "Geography > Flora and fauna",
   "type": "table",
-  "body": "0: Tree, 1: Bread fruit (Artocarpus incisa), 3: Flower, 4: Neelakurinji (Strobilanthes kunthiana)",
-  "text": "Lakshadweep | Geography > Flora and fauna | Symbols of Lakshadweep | 0: Tree, 1: Bread fruit (Artocarpus incisa), 3: Flower, 4: Neelakurinji (Strobilanthes kunthiana)"
+  "body": "Tree, Bread fruit (Artocarpus incisa), Flower, Neelakurinji (Strobilanthes kunthiana)",
+  "text": "Lakshadweep | Geography > Flora and fauna | Symbols of Lakshadweep | Tree, Bread fruit (Artocarpus incisa), Flower, Neelakurinji (Strobilanthes kunthiana)"
  },
  {
   "id": 2651,
@@ -24881,8 +24881,8 @@
   "url": "https://en.wikipedia.org/wiki/List_of_districts_of_Arunachal_Pradesh",
   "section": "History",
   "type": "table",
-  "body": "0: 1965, 1: [5] Kameng, Subansiri, Siang, Lohit and Tirap",
-  "text": "List of districts of Arunachal Pradesh | History | Year of formation of districts in Arunachal Pradesh | 0: 1965, 1: [5] Kameng, Subansiri, Siang, Lohit and Tirap"
+  "body": "1965, [5] Kameng, Subansiri, Siang, Lohit and Tirap",
+  "text": "List of districts of Arunachal Pradesh | History | Year of formation of districts in Arunachal Pradesh | 1965, [5] Kameng, Subansiri, Siang, Lohit and Tirap"
  },
  {
   "id": 2765,
@@ -24890,8 +24890,8 @@
   "url": "https://en.wikipedia.org/wiki/List_of_districts_of_Arunachal_Pradesh",
   "section": "History",
   "type": "table",
-  "body": "0: 1980, 1: [9] Lower Subansiri, Upper Subansiri, Lohit, Dibang Valley, East Siang, West Siang, East Kameng, West Kameng, Tirap",
-  "text": "List of districts of Arunachal Pradesh | History | Year of formation of districts in Arunachal Pradesh | 0: 1980, 1: [9] Lower Subansiri, Upper Subansiri, Lohit, Dibang Valley, East Siang, West Siang, East Kameng, West Kameng, Tirap"
+  "body": "1980, [9] Lower Subansiri, Upper Subansiri, Lohit, Dibang Valley, East Siang, West Siang, East Kameng, West Kameng, Tirap",
+  "text": "List of districts of Arunachal Pradesh | History | Year of formation of districts in Arunachal Pradesh | 1980, [9] Lower Subansiri, Upper Subansiri, Lohit, Dibang Valley, East Siang, West Siang, East Kameng, West Kameng, Tirap"
  },
  {
   "id": 2766,
@@ -24899,8 +24899,8 @@
   "url": "https://en.wikipedia.org/wiki/List_of_districts_of_Arunachal_Pradesh",
   "section": "History",
   "type": "table",
-  "body": "0: 1984, 1: [10] Tawang",
-  "text": "List of districts of Arunachal Pradesh | History | Year of formation of districts in Arunachal Pradesh | 0: 1984, 1: [10] Tawang"
+  "body": "1984, [10] Tawang",
+  "text": "List of districts of Arunachal Pradesh | History | Year of formation of districts in Arunachal Pradesh | 1984, [10] Tawang"
  },
  {
   "id": 2767,
@@ -24908,8 +24908,8 @@
   "url": "https://en.wikipedia.org/wiki/List_of_districts_of_Arunachal_Pradesh",
   "section": "History",
   "type": "table",
-  "body": "0: 1987, 1: [11] Changlang",
-  "text": "List of districts of Arunachal Pradesh | History | Year of formation of districts in Arunachal Pradesh | 0: 1987, 1: [11] Changlang"
+  "body": "1987, [11] Changlang",
+  "text": "List of districts of Arunachal Pradesh | History | Year of formation of districts in Arunachal Pradesh | 1987, [11] Changlang"
  },
  {
   "id": 2768,
@@ -24917,8 +24917,8 @@
   "url": "https://en.wikipedia.org/wiki/List_of_districts_of_Arunachal_Pradesh",
   "section": "History",
   "type": "table",
-  "body": "0: 1992, 1: [12] Papum Pare",
-  "text": "List of districts of Arunachal Pradesh | History | Year of formation of districts in Arunachal Pradesh | 0: 1992, 1: [12] Papum Pare"
+  "body": "1992, [12] Papum Pare",
+  "text": "List of districts of Arunachal Pradesh | History | Year of formation of districts in Arunachal Pradesh | 1992, [12] Papum Pare"
  },
  {
   "id": 2769,
@@ -24926,8 +24926,8 @@
   "url": "https://en.wikipedia.org/wiki/List_of_districts_of_Arunachal_Pradesh",
   "section": "History",
   "type": "table",
-  "body": "0: 1994, 1: [13] Upper Siang",
-  "text": "List of districts of Arunachal Pradesh | History | Year of formation of districts in Arunachal Pradesh | 0: 1994, 1: [13] Upper Siang"
+  "body": "1994, [13] Upper Siang",
+  "text": "List of districts of Arunachal Pradesh | History | Year of formation of districts in Arunachal Pradesh | 1994, [13] Upper Siang"
  },
  {
   "id": 2770,
@@ -24935,8 +24935,8 @@
   "url": "https://en.wikipedia.org/wiki/List_of_districts_of_Arunachal_Pradesh",
   "section": "History",
   "type": "table",
-  "body": "0: 2001, 1: [14, 15] Kurung Kumey, Lower Dibang Valley",
-  "text": "List of districts of Arunachal Pradesh | History | Year of formation of districts in Arunachal Pradesh | 0: 2001, 1: [14, 15] Kurung Kumey, Lower Dibang Valley"
+  "body": "2001, [14, 15] Kurung Kumey, Lower Dibang Valley",
+  "text": "List of districts of Arunachal Pradesh | History | Year of formation of districts in Arunachal Pradesh | 2001, [14, 15] Kurung Kumey, Lower Dibang Valley"
  },
  {
   "id": 2771,
@@ -24944,8 +24944,8 @@
   "url": "https://en.wikipedia.org/wiki/List_of_districts_of_Arunachal_Pradesh",
   "section": "History",
   "type": "table",
-  "body": "0: 2004, 1: [16] Anjaw",
-  "text": "List of districts of Arunachal Pradesh | History | Year of formation of districts in Arunachal Pradesh | 0: 2004, 1: [16] Anjaw"
+  "body": "2004, [16] Anjaw",
+  "text": "List of districts of Arunachal Pradesh | History | Year of formation of districts in Arunachal Pradesh | 2004, [16] Anjaw"
  },
  {
   "id": 2772,
@@ -24953,8 +24953,8 @@
   "url": "https://en.wikipedia.org/wiki/List_of_districts_of_Arunachal_Pradesh",
   "section": "History",
   "type": "table",
-  "body": "0: 2012, 1: [17] Longding",
-  "text": "List of districts of Arunachal Pradesh | History | Year of formation of districts in Arunachal Pradesh | 0: 2012, 1: [17] Longding"
+  "body": "2012, [17] Longding",
+  "text": "List of districts of Arunachal Pradesh | History | Year of formation of districts in Arunachal Pradesh | 2012, [17] Longding"
  },
  {
   "id": 2773,
@@ -24962,8 +24962,8 @@
   "url": "https://en.wikipedia.org/wiki/List_of_districts_of_Arunachal_Pradesh",
   "section": "History",
   "type": "table",
-  "body": "0: 2014, 1: [18] Namsai",
-  "text": "List of districts of Arunachal Pradesh | History | Year of formation of districts in Arunachal Pradesh | 0: 2014, 1: [18] Namsai"
+  "body": "2014, [18] Namsai",
+  "text": "List of districts of Arunachal Pradesh | History | Year of formation of districts in Arunachal Pradesh | 2014, [18] Namsai"
  },
  {
   "id": 2774,
@@ -24971,8 +24971,8 @@
   "url": "https://en.wikipedia.org/wiki/List_of_districts_of_Arunachal_Pradesh",
   "section": "History",
   "type": "table",
-  "body": "0: 2015, 1: [19, 20] Kra Daadi, Siang",
-  "text": "List of districts of Arunachal Pradesh | History | Year of formation of districts in Arunachal Pradesh | 0: 2015, 1: [19, 20] Kra Daadi, Siang"
+  "body": "2015, [19, 20] Kra Daadi, Siang",
+  "text": "List of districts of Arunachal Pradesh | History | Year of formation of districts in Arunachal Pradesh | 2015, [19, 20] Kra Daadi, Siang"
  },
  {
   "id": 2775,
@@ -24980,8 +24980,8 @@
   "url": "https://en.wikipedia.org/wiki/List_of_districts_of_Arunachal_Pradesh",
   "section": "History",
   "type": "table",
-  "body": "0: 2017, 1: [21, 22] Lower Siang, Kamle",
-  "text": "List of districts of Arunachal Pradesh | History | Year of formation of districts in Arunachal Pradesh | 0: 2017, 1: [21, 22] Lower Siang, Kamle"
+  "body": "2017, [21, 22] Lower Siang, Kamle",
+  "text": "List of districts of Arunachal Pradesh | History | Year of formation of districts in Arunachal Pradesh | 2017, [21, 22] Lower Siang, Kamle"
  },
  {
   "id": 2776,
@@ -24989,8 +24989,8 @@
   "url": "https://en.wikipedia.org/wiki/List_of_districts_of_Arunachal_Pradesh",
   "section": "History",
   "type": "table",
-  "body": "0: 2018, 1: [23-25-26] Pakke-Kessang, Lepa-Rada, Shi-Yomi",
-  "text": "List of districts of Arunachal Pradesh | History | Year of formation of districts in Arunachal Pradesh | 0: 2018, 1: [23-25-26] Pakke-Kessang, Lepa-Rada, Shi-Yomi"
+  "body": "2018, [23-25-26] Pakke-Kessang, Lepa-Rada, Shi-Yomi",
+  "text": "List of districts of Arunachal Pradesh | History | Year of formation of districts in Arunachal Pradesh | 2018, [23-25-26] Pakke-Kessang, Lepa-Rada, Shi-Yomi"
  },
  {
   "id": 2777,
@@ -24998,8 +24998,8 @@
   "url": "https://en.wikipedia.org/wiki/List_of_districts_of_Arunachal_Pradesh",
   "section": "History",
   "type": "table",
-  "body": "0: 2024, 1: [27, 28] Bichom Keyi Panyor",
-  "text": "List of districts of Arunachal Pradesh | History | Year of formation of districts in Arunachal Pradesh | 0: 2024, 1: [27, 28] Bichom Keyi Panyor"
+  "body": "2024, [27, 28] Bichom Keyi Panyor",
+  "text": "List of districts of Arunachal Pradesh | History | Year of formation of districts in Arunachal Pradesh | 2024, [27, 28] Bichom Keyi Panyor"
  },
  {
   "id": 2778,
@@ -25007,8 +25007,8 @@
   "url": "https://en.wikipedia.org/wiki/List_of_districts_of_Arunachal_Pradesh",
   "section": "History",
   "type": "table",
-  "body": "0: Numbers in brackets represent total number of districts in the state, 1: Numbers in brackets represent total number of districts in the state",
-  "text": "List of districts of Arunachal Pradesh | History | Year of formation of districts in Arunachal Pradesh | 0: Numbers in brackets represent total number of districts in the state, 1: Numbers in brackets represent total number of districts in the state"
+  "body": "Numbers in brackets represent total number of districts in the state, Numbers in brackets represent total number of districts in the state",
+  "text": "List of districts of Arunachal Pradesh | History | Year of formation of districts in Arunachal Pradesh | Numbers in brackets represent total number of districts in the state, Numbers in brackets represent total number of districts in the state"
  },
  {
   "id": 2779,
@@ -26123,8 +26123,8 @@
   "url": "https://en.wikipedia.org/wiki/List_of_districts_of_Bihar",
   "section": "Administration",
   "type": "table",
-  "body": "0: Divisions, 1: 9",
-  "text": "List of districts of Bihar | Administration | Administrative Division in Details | 0: Divisions, 1: 9"
+  "body": "Divisions, 9",
+  "text": "List of districts of Bihar | Administration | Administrative Division in Details | Divisions, 9"
  },
  {
   "id": 2903,
@@ -26132,8 +26132,8 @@
   "url": "https://en.wikipedia.org/wiki/List_of_districts_of_Bihar",
   "section": "Administration",
   "type": "table",
-  "body": "0: Districts, 1: 38",
-  "text": "List of districts of Bihar | Administration | Administrative Division in Details | 0: Districts, 1: 38"
+  "body": "Districts, 38",
+  "text": "List of districts of Bihar | Administration | Administrative Division in Details | Districts, 38"
  },
  {
   "id": 2904,
@@ -26141,8 +26141,8 @@
   "url": "https://en.wikipedia.org/wiki/List_of_districts_of_Bihar",
   "section": "Administration",
   "type": "table",
-  "body": "0: Subdivisions, 1: 109",
-  "text": "List of districts of Bihar | Administration | Administrative Division in Details | 0: Subdivisions, 1: 109"
+  "body": "Subdivisions, 109",
+  "text": "List of districts of Bihar | Administration | Administrative Division in Details | Subdivisions, 109"
  },
  {
   "id": 2905,
@@ -26150,8 +26150,8 @@
   "url": "https://en.wikipedia.org/wiki/List_of_districts_of_Bihar",
   "section": "Administration",
   "type": "table",
-  "body": "0: Cities and towns, 1: 207",
-  "text": "List of districts of Bihar | Administration | Administrative Division in Details | 0: Cities and towns, 1: 207"
+  "body": "Cities and towns, 207",
+  "text": "List of districts of Bihar | Administration | Administrative Division in Details | Cities and towns, 207"
  },
  {
   "id": 2906,
@@ -26159,8 +26159,8 @@
   "url": "https://en.wikipedia.org/wiki/List_of_districts_of_Bihar",
   "section": "Administration",
   "type": "table",
-  "body": "0: Blocks, 1: 534",
-  "text": "List of districts of Bihar | Administration | Administrative Division in Details | 0: Blocks, 1: 534"
+  "body": "Blocks, 534",
+  "text": "List of districts of Bihar | Administration | Administrative Division in Details | Blocks, 534"
  },
  {
   "id": 2907,
@@ -26168,8 +26168,8 @@
   "url": "https://en.wikipedia.org/wiki/List_of_districts_of_Bihar",
   "section": "Administration",
   "type": "table",
-  "body": "0: Villages, 1: 45103",
-  "text": "List of districts of Bihar | Administration | Administrative Division in Details | 0: Villages, 1: 45103"
+  "body": "Villages, 45103",
+  "text": "List of districts of Bihar | Administration | Administrative Division in Details | Villages, 45103"
  },
  {
   "id": 2908,
@@ -26177,8 +26177,8 @@
   "url": "https://en.wikipedia.org/wiki/List_of_districts_of_Bihar",
   "section": "Administration",
   "type": "table",
-  "body": "0: Panchayats, 1: 8406",
-  "text": "List of districts of Bihar | Administration | Administrative Division in Details | 0: Panchayats, 1: 8406"
+  "body": "Panchayats, 8406",
+  "text": "List of districts of Bihar | Administration | Administrative Division in Details | Panchayats, 8406"
  },
  {
   "id": 2909,
@@ -26186,8 +26186,8 @@
   "url": "https://en.wikipedia.org/wiki/List_of_districts_of_Bihar",
   "section": "Administration",
   "type": "table",
-  "body": "0: Police Districts, 1: 43",
-  "text": "List of districts of Bihar | Administration | Administrative Division in Details | 0: Police Districts, 1: 43"
+  "body": "Police Districts, 43",
+  "text": "List of districts of Bihar | Administration | Administrative Division in Details | Police Districts, 43"
  },
  {
   "id": 2910,
@@ -26195,8 +26195,8 @@
   "url": "https://en.wikipedia.org/wiki/List_of_districts_of_Bihar",
   "section": "Administration",
   "type": "table",
-  "body": "0: Police Stations, 1: 853",
-  "text": "List of districts of Bihar | Administration | Administrative Division in Details | 0: Police Stations, 1: 853"
+  "body": "Police Stations, 853",
+  "text": "List of districts of Bihar | Administration | Administrative Division in Details | Police Stations, 853"
  },
  {
   "id": 2911,
@@ -33458,8 +33458,8 @@
   "url": "https://en.wikipedia.org/wiki/List_of_districts_of_Manipur",
   "section": "Languages",
   "type": "table",
-  "body": "0: District, 1: Indigenous names of districts, 2: Languages (major), 3: Languages (minor)",
-  "text": "List of districts of Manipur | Languages | 0: District, 1: Indigenous names of districts, 2: Languages (major), 3: Languages (minor)"
+  "body": "District, Indigenous names of districts, Languages (major), Languages (minor)",
+  "text": "List of districts of Manipur | Languages | District, Indigenous names of districts, Languages (major), Languages (minor)"
  },
  {
   "id": 3718,
@@ -33467,8 +33467,8 @@
   "url": "https://en.wikipedia.org/wiki/List_of_districts_of_Manipur",
   "section": "Languages",
   "type": "table",
-  "body": "0: Bishnupur, 2: Meitei, 3: Kom*, Kabui",
-  "text": "List of districts of Manipur | Languages | 0: Bishnupur, 2: Meitei, 3: Kom*, Kabui"
+  "body": "Bishnupur, Meitei, Kom*, Kabui",
+  "text": "List of districts of Manipur | Languages | Bishnupur, Meitei, Kom*, Kabui"
  },
  {
   "id": 3719,
@@ -33476,8 +33476,8 @@
   "url": "https://en.wikipedia.org/wiki/List_of_districts_of_Manipur",
   "section": "Languages",
   "type": "table",
-  "body": "0: Thoubal, 1: Thoubal, 2: Meitei, 3: Aimol, Anal*, Maring",
-  "text": "List of districts of Manipur | Languages | 0: Thoubal, 1: Thoubal, 2: Meitei, 3: Aimol, Anal*, Maring"
+  "body": "Thoubal, Thoubal, Meitei, Aimol, Anal*, Maring",
+  "text": "List of districts of Manipur | Languages | Thoubal, Thoubal, Meitei, Aimol, Anal*, Maring"
  },
  {
   "id": 3720,
@@ -33485,8 +33485,8 @@
   "url": "https://en.wikipedia.org/wiki/List_of_districts_of_Manipur",
   "section": "Languages",
   "type": "table",
-  "body": "0: Imphal East, 1: Imphal East, 2: Meitei, Kabui, 3: Tangkhul*, Thadou*, Mao*, Hmar*, Paite*, Gangte*, Vaiphei",
-  "text": "List of districts of Manipur | Languages | 0: Imphal East, 1: Imphal East, 2: Meitei, Kabui, 3: Tangkhul*, Thadou*, Mao*, Hmar*, Paite*, Gangte*, Vaiphei"
+  "body": "Imphal East, Imphal East, Meitei, Kabui, Tangkhul*, Thadou*, Mao*, Hmar*, Paite*, Gangte*, Vaiphei",
+  "text": "List of districts of Manipur | Languages | Imphal East, Imphal East, Meitei, Kabui, Tangkhul*, Thadou*, Mao*, Hmar*, Paite*, Gangte*, Vaiphei"
  },
  {
   "id": 3721,
@@ -33494,8 +33494,8 @@
   "url": "https://en.wikipedia.org/wiki/List_of_districts_of_Manipur",
   "section": "Languages",
   "type": "table",
-  "body": "0: Imphal West, 1: Imphal West, 2: Meitei, Kabui, 3: Tangkhul*, Thadou*, Mao*, Hmar*, Paite*, Gangte*, Vaiphei",
-  "text": "List of districts of Manipur | Languages | 0: Imphal West, 1: Imphal West, 2: Meitei, Kabui, 3: Tangkhul*, Thadou*, Mao*, Hmar*, Paite*, Gangte*, Vaiphei"
+  "body": "Imphal West, Imphal West, Meitei, Kabui, Tangkhul*, Thadou*, Mao*, Hmar*, Paite*, Gangte*, Vaiphei",
+  "text": "List of districts of Manipur | Languages | Imphal West, Imphal West, Meitei, Kabui, Tangkhul*, Thadou*, Mao*, Hmar*, Paite*, Gangte*, Vaiphei"
  },
  {
   "id": 3722,
@@ -33503,8 +33503,8 @@
   "url": "https://en.wikipedia.org/wiki/List_of_districts_of_Manipur",
   "section": "Languages",
   "type": "table",
-  "body": "0: Senapati, 1: Tahamzam, 2: Mao*, Poula*, 3: Maram, Thangal, Liangmai, Maram, Rongmai, Inpui, Tangkhul*",
-  "text": "List of districts of Manipur | Languages | 0: Senapati, 1: Tahamzam, 2: Mao*, Poula*, 3: Maram, Thangal, Liangmai, Maram, Rongmai, Inpui, Tangkhul*"
+  "body": "Senapati, Tahamzam, Mao*, Poula*, Maram, Thangal, Liangmai, Maram, Rongmai, Inpui, Tangkhul*",
+  "text": "List of districts of Manipur | Languages | Senapati, Tahamzam, Mao*, Poula*, Maram, Thangal, Liangmai, Maram, Rongmai, Inpui, Tangkhul*"
  },
  {
   "id": 3723,
@@ -33512,8 +33512,8 @@
   "url": "https://en.wikipedia.org/wiki/List_of_districts_of_Manipur",
   "section": "Languages",
   "type": "table",
-  "body": "0: Ukhrul, 1: Ukhrul, 2: Tangkhul*, 3: Thadou*",
-  "text": "List of districts of Manipur | Languages | 0: Ukhrul, 1: Ukhrul, 2: Tangkhul*, 3: Thadou*"
+  "body": "Ukhrul, Ukhrul, Tangkhul*, Thadou*",
+  "text": "List of districts of Manipur | Languages | Ukhrul, Ukhrul, Tangkhul*, Thadou*"
  },
  {
   "id": 3724,
@@ -33521,8 +33521,8 @@
   "url": "https://en.wikipedia.org/wiki/List_of_districts_of_Manipur",
   "section": "Languages",
   "type": "table",
-  "body": "0: Chandel, 1: Chandel, 2: Thadou*, Anal*, Lamkang, 3: Maring, Moyon, Monsang, Chothe, Gangte, Tarao, Vaiphei",
-  "text": "List of districts of Manipur | Languages | 0: Chandel, 1: Chandel, 2: Thadou*, Anal*, Lamkang, 3: Maring, Moyon, Monsang, Chothe, Gangte, Tarao, Vaiphei"
+  "body": "Chandel, Chandel, Thadou*, Anal*, Lamkang, Maring, Moyon, Monsang, Chothe, Gangte, Tarao, Vaiphei",
+  "text": "List of districts of Manipur | Languages | Chandel, Chandel, Thadou*, Anal*, Lamkang, Maring, Moyon, Monsang, Chothe, Gangte, Tarao, Vaiphei"
  },
  {
   "id": 3725,
@@ -33530,8 +33530,8 @@
   "url": "https://en.wikipedia.org/wiki/List_of_districts_of_Manipur",
   "section": "Languages",
   "type": "table",
-  "body": "0: Churachandpur, 1: Lamka, 2: Paite*, Thadou*, Hmar, Vaiphei*, Zou, Gangte, 3: Kom*, Aimol, Chiru, Meitei, Simte",
-  "text": "List of districts of Manipur | Languages | 0: Churachandpur, 1: Lamka, 2: Paite*, Thadou*, Hmar, Vaiphei*, Zou, Gangte, 3: Kom*, Aimol, Chiru, Meitei, Simte"
+  "body": "Churachandpur, Lamka, Paite*, Thadou*, Hmar, Vaiphei*, Zou, Gangte, Kom*, Aimol, Chiru, Meitei, Simte",
+  "text": "List of districts of Manipur | Languages | Churachandpur, Lamka, Paite*, Thadou*, Hmar, Vaiphei*, Zou, Gangte, Kom*, Aimol, Chiru, Meitei, Simte"
  },
  {
   "id": 3726,
@@ -33539,8 +33539,8 @@
   "url": "https://en.wikipedia.org/wiki/List_of_districts_of_Manipur",
   "section": "Languages",
   "type": "table",
-  "body": "0: Tamenglong, 1: Inriangluang, 2: Rongmei, Liangmei, Zemei, Inpui, 3: Thadou*, Chiru, Hmar*",
-  "text": "List of districts of Manipur | Languages | 0: Tamenglong, 1: Inriangluang, 2: Rongmei, Liangmei, Zemei, Inpui, 3: Thadou*, Chiru, Hmar*"
+  "body": "Tamenglong, Inriangluang, Rongmei, Liangmei, Zemei, Inpui, Thadou*, Chiru, Hmar*",
+  "text": "List of districts of Manipur | Languages | Tamenglong, Inriangluang, Rongmei, Liangmei, Zemei, Inpui, Thadou*, Chiru, Hmar*"
  },
  {
   "id": 3727,
@@ -33548,8 +33548,8 @@
   "url": "https://en.wikipedia.org/wiki/List_of_districts_of_Manipur",
   "section": "Languages",
   "type": "table",
-  "body": "0: Jiribam, 1: Jiribam, 2: Meitei, Bengali, Hmar*, 3: Rongmei, Thadou*, Paite, Gangte, Vaiphei",
-  "text": "List of districts of Manipur | Languages | 0: Jiribam, 1: Jiribam, 2: Meitei, Bengali, Hmar*, 3: Rongmei, Thadou*, Paite, Gangte, Vaiphei"
+  "body": "Jiribam, Jiribam, Meitei, Bengali, Hmar*, Rongmei, Thadou*, Paite, Gangte, Vaiphei",
+  "text": "List of districts of Manipur | Languages | Jiribam, Jiribam, Meitei, Bengali, Hmar*, Rongmei, Thadou*, Paite, Gangte, Vaiphei"
  },
  {
   "id": 3728,
@@ -33557,8 +33557,8 @@
   "url": "https://en.wikipedia.org/wiki/List_of_districts_of_Manipur",
   "section": "Languages",
   "type": "table",
-  "body": "0: Kangpokpi (Sadar Hills), 1: Kanggui, 2: Thadou*, Nepali, 3: Kom*, Liangmai, Thangal, Rongmei, Aimol, Tangkhul*, Koireng, Kharam, Vaiphei, Gangte, Hmar*",
-  "text": "List of districts of Manipur | Languages | 0: Kangpokpi (Sadar Hills), 1: Kanggui, 2: Thadou*, Nepali, 3: Kom*, Liangmai, Thangal, Rongmei, Aimol, Tangkhul*, Koireng, Kharam, Vaiphei, Gangte, Hmar*"
+  "body": "Kangpokpi (Sadar Hills), Kanggui, Thadou*, Nepali, Kom*, Liangmai, Thangal, Rongmei, Aimol, Tangkhul*, Koireng, Kharam, Vaiphei, Gangte, Hmar*",
+  "text": "List of districts of Manipur | Languages | Kangpokpi (Sadar Hills), Kanggui, Thadou*, Nepali, Kom*, Liangmai, Thangal, Rongmei, Aimol, Tangkhul*, Koireng, Kharam, Vaiphei, Gangte, Hmar*"
  },
  {
   "id": 3729,
@@ -33566,8 +33566,8 @@
   "url": "https://en.wikipedia.org/wiki/List_of_districts_of_Manipur",
   "section": "Languages",
   "type": "table",
-  "body": "0: Kakching, 1: Kakching, 2: Meitei, Loi*, 3: _",
-  "text": "List of districts of Manipur | Languages | 0: Kakching, 1: Kakching, 2: Meitei, Loi*, 3: _"
+  "body": "Kakching, Kakching, Meitei, Loi*, _",
+  "text": "List of districts of Manipur | Languages | Kakching, Kakching, Meitei, Loi*, _"
  },
  {
   "id": 3730,
@@ -33575,8 +33575,8 @@
   "url": "https://en.wikipedia.org/wiki/List_of_districts_of_Manipur",
   "section": "Languages",
   "type": "table",
-  "body": "0: Tengnoupal, 1: Tengnoupal, 2: Maring, Thadou*, Gangte, 3: Aimol*, Zou",
-  "text": "List of districts of Manipur | Languages | 0: Tengnoupal, 1: Tengnoupal, 2: Maring, Thadou*, Gangte, 3: Aimol*, Zou"
+  "body": "Tengnoupal, Tengnoupal, Maring, Thadou*, Gangte, Aimol*, Zou",
+  "text": "List of districts of Manipur | Languages | Tengnoupal, Tengnoupal, Maring, Thadou*, Gangte, Aimol*, Zou"
  },
  {
   "id": 3731,
@@ -33584,8 +33584,8 @@
   "url": "https://en.wikipedia.org/wiki/List_of_districts_of_Manipur",
   "section": "Languages",
   "type": "table",
-  "body": "0: Kamjong, 1: Kamjong, 2: Tangkhul, 3: Thadou*",
-  "text": "List of districts of Manipur | Languages | 0: Kamjong, 1: Kamjong, 2: Tangkhul, 3: Thadou*"
+  "body": "Kamjong, Kamjong, Tangkhul, Thadou*",
+  "text": "List of districts of Manipur | Languages | Kamjong, Kamjong, Tangkhul, Thadou*"
  },
  {
   "id": 3732,
@@ -33593,8 +33593,8 @@
   "url": "https://en.wikipedia.org/wiki/List_of_districts_of_Manipur",
   "section": "Languages",
   "type": "table",
-  "body": "0: Noney, 1: Longmai, 2: Rongmei, Inpui, 3: Gangte, Vaiphei",
-  "text": "List of districts of Manipur | Languages | 0: Noney, 1: Longmai, 2: Rongmei, Inpui, 3: Gangte, Vaiphei"
+  "body": "Noney, Longmai, Rongmei, Inpui, Gangte, Vaiphei",
+  "text": "List of districts of Manipur | Languages | Noney, Longmai, Rongmei, Inpui, Gangte, Vaiphei"
  },
  {
   "id": 3733,
@@ -33602,8 +33602,8 @@
   "url": "https://en.wikipedia.org/wiki/List_of_districts_of_Manipur",
   "section": "Languages",
   "type": "table",
-  "body": "0: Pherzawl, 1: Pherzawl, 2: Hmar*, Thadou, 3: Simte, Paite*, Bengali, Vaiphei, Gangte",
-  "text": "List of districts of Manipur | Languages | 0: Pherzawl, 1: Pherzawl, 2: Hmar*, Thadou, 3: Simte, Paite*, Bengali, Vaiphei, Gangte"
+  "body": "Pherzawl, Pherzawl, Hmar*, Thadou, Simte, Paite*, Bengali, Vaiphei, Gangte",
+  "text": "List of districts of Manipur | Languages | Pherzawl, Pherzawl, Hmar*, Thadou, Simte, Paite*, Bengali, Vaiphei, Gangte"
  },
  {
   "id": 3734,
@@ -33611,8 +33611,8 @@
   "url": "https://en.wikipedia.org/wiki/List_of_districts_of_Manipur",
   "section": "Subdivisions",
   "type": "table",
-  "body": "0: Districts, 1: Subdivisions",
-  "text": "List of districts of Manipur | Subdivisions | 0: Districts, 1: Subdivisions"
+  "body": "Districts, Subdivisions",
+  "text": "List of districts of Manipur | Subdivisions | Districts, Subdivisions"
  },
  {
   "id": 3735,
@@ -33620,8 +33620,8 @@
   "url": "https://en.wikipedia.org/wiki/List_of_districts_of_Manipur",
   "section": "Subdivisions",
   "type": "table",
-  "body": "0: Bishnupur, 1: Nambol, Moirang, Bishnupur",
-  "text": "List of districts of Manipur | Subdivisions | 0: Bishnupur, 1: Nambol, Moirang, Bishnupur"
+  "body": "Bishnupur, Nambol, Moirang, Bishnupur",
+  "text": "List of districts of Manipur | Subdivisions | Bishnupur, Nambol, Moirang, Bishnupur"
  },
  {
   "id": 3736,
@@ -33629,8 +33629,8 @@
   "url": "https://en.wikipedia.org/wiki/List_of_districts_of_Manipur",
   "section": "Subdivisions",
   "type": "table",
-  "body": "0: Thoubal, 1: Thoubal, Lilong",
-  "text": "List of districts of Manipur | Subdivisions | 0: Thoubal, 1: Thoubal, Lilong"
+  "body": "Thoubal, Thoubal, Lilong",
+  "text": "List of districts of Manipur | Subdivisions | Thoubal, Thoubal, Lilong"
  },
  {
   "id": 3737,
@@ -33638,8 +33638,8 @@
   "url": "https://en.wikipedia.org/wiki/List_of_districts_of_Manipur",
   "section": "Subdivisions",
   "type": "table",
-  "body": "0: Imphal East, 1: Porompat, Keirao Bitra, Sawombung",
-  "text": "List of districts of Manipur | Subdivisions | 0: Imphal East, 1: Porompat, Keirao Bitra, Sawombung"
+  "body": "Imphal East, Porompat, Keirao Bitra, Sawombung",
+  "text": "List of districts of Manipur | Subdivisions | Imphal East, Porompat, Keirao Bitra, Sawombung"
  },
  {
   "id": 3738,
@@ -33647,8 +33647,8 @@
   "url": "https://en.wikipedia.org/wiki/List_of_districts_of_Manipur",
   "section": "Subdivisions",
   "type": "table",
-  "body": "0: Imphal West, 1: Lamshang, Patsoi, Lamphelpat, Wangoi",
-  "text": "List of districts of Manipur | Subdivisions | 0: Imphal West, 1: Lamshang, Patsoi, Lamphelpat, Wangoi"
+  "body": "Imphal West, Lamshang, Patsoi, Lamphelpat, Wangoi",
+  "text": "List of districts of Manipur | Subdivisions | Imphal West, Lamshang, Patsoi, Lamphelpat, Wangoi"
  },
  {
   "id": 3739,
@@ -33656,8 +33656,8 @@
   "url": "https://en.wikipedia.org/wiki/List_of_districts_of_Manipur",
   "section": "Subdivisions",
   "type": "table",
-  "body": "0: Senapati, 1: Tadubi, Paomata, Purul, Willong, Chilivai Phaibung, Songsong, Lairouching",
-  "text": "List of districts of Manipur | Subdivisions | 0: Senapati, 1: Tadubi, Paomata, Purul, Willong, Chilivai Phaibung, Songsong, Lairouching"
+  "body": "Senapati, Tadubi, Paomata, Purul, Willong, Chilivai Phaibung, Songsong, Lairouching",
+  "text": "List of districts of Manipur | Subdivisions | Senapati, Tadubi, Paomata, Purul, Willong, Chilivai Phaibung, Songsong, Lairouching"
  },
  {
   "id": 3740,
@@ -33665,8 +33665,8 @@
   "url": "https://en.wikipedia.org/wiki/List_of_districts_of_Manipur",
   "section": "Subdivisions",
   "type": "table",
-  "body": "0: Ukhrul, 1: Ukhrul, Lungchong Maiphai, Chingai, Jessami",
-  "text": "List of districts of Manipur | Subdivisions | 0: Ukhrul, 1: Ukhrul, Lungchong Maiphai, Chingai, Jessami"
+  "body": "Ukhrul, Ukhrul, Lungchong Maiphai, Chingai, Jessami",
+  "text": "List of districts of Manipur | Subdivisions | Ukhrul, Ukhrul, Lungchong Maiphai, Chingai, Jessami"
  },
  {
   "id": 3741,
@@ -33674,8 +33674,8 @@
   "url": "https://en.wikipedia.org/wiki/List_of_districts_of_Manipur",
   "section": "Subdivisions",
   "type": "table",
-  "body": "0: Chandel, 1: Chandel, Chakpikarong, Khengjoy",
-  "text": "List of districts of Manipur | Subdivisions | 0: Chandel, 1: Chandel, Chakpikarong, Khengjoy"
+  "body": "Chandel, Chandel, Chakpikarong, Khengjoy",
+  "text": "List of districts of Manipur | Subdivisions | Chandel, Chandel, Chakpikarong, Khengjoy"
  },
  {
   "id": 3742,
@@ -33683,8 +33683,8 @@
   "url": "https://en.wikipedia.org/wiki/List_of_districts_of_Manipur",
   "section": "Subdivisions",
   "type": "table",
-  "body": "0: Churachandpur, 1: churchandpur, Tuiboung, Sangaikot, Mualnuam, Singngat, Henglep, Suangdoh, Kangvai, Samulamlan, Saikot",
-  "text": "List of districts of Manipur | Subdivisions | 0: Churachandpur, 1: churchandpur, Tuiboung, Sangaikot, Mualnuam, Singngat, Henglep, Suangdoh, Kangvai, Samulamlan, Saikot"
+  "body": "Churachandpur, churchandpur, Tuiboung, Sangaikot, Mualnuam, Singngat, Henglep, Suangdoh, Kangvai, Samulamlan, Saikot",
+  "text": "List of districts of Manipur | Subdivisions | Churachandpur, churchandpur, Tuiboung, Sangaikot, Mualnuam, Singngat, Henglep, Suangdoh, Kangvai, Samulamlan, Saikot"
  },
  {
   "id": 3743,
@@ -33692,8 +33692,8 @@
   "url": "https://en.wikipedia.org/wiki/List_of_districts_of_Manipur",
   "section": "Subdivisions",
   "type": "table",
-  "body": "0: Tamenglong, 1: Tamenglong, Tamei, Tousem",
-  "text": "List of districts of Manipur | Subdivisions | 0: Tamenglong, 1: Tamenglong, Tamei, Tousem"
+  "body": "Tamenglong, Tamenglong, Tamei, Tousem",
+  "text": "List of districts of Manipur | Subdivisions | Tamenglong, Tamenglong, Tamei, Tousem"
  },
  {
   "id": 3744,
@@ -33701,8 +33701,8 @@
   "url": "https://en.wikipedia.org/wiki/List_of_districts_of_Manipur",
   "section": "Subdivisions",
   "type": "table",
-  "body": "0: Jiribam, 1: Jiribam, Borobekra",
-  "text": "List of districts of Manipur | Subdivisions | 0: Jiribam, 1: Jiribam, Borobekra"
+  "body": "Jiribam, Jiribam, Borobekra",
+  "text": "List of districts of Manipur | Subdivisions | Jiribam, Jiribam, Borobekra"
  },
  {
   "id": 3745,
@@ -33710,8 +33710,8 @@
   "url": "https://en.wikipedia.org/wiki/List_of_districts_of_Manipur",
   "section": "Subdivisions",
   "type": "table",
-  "body": "0: Kangpokpi (Sadar Hills), 1: Kangpokpi, Champhai, Saitu Gamphazol, Kangchup Geljang, Tuijang Waichong, Saikul, Lhungtin Island, Bungte Chiru",
-  "text": "List of districts of Manipur | Subdivisions | 0: Kangpokpi (Sadar Hills), 1: Kangpokpi, Champhai, Saitu Gamphazol, Kangchup Geljang, Tuijang Waichong, Saikul, Lhungtin Island, Bungte Chiru"
+  "body": "Kangpokpi (Sadar Hills), Kangpokpi, Champhai, Saitu Gamphazol, Kangchup Geljang, Tuijang Waichong, Saikul, Lhungtin Island, Bungte Chiru",
+  "text": "List of districts of Manipur | Subdivisions | Kangpokpi (Sadar Hills), Kangpokpi, Champhai, Saitu Gamphazol, Kangchup Geljang, Tuijang Waichong, Saikul, Lhungtin Island, Bungte Chiru"
  },
  {
   "id": 3746,
@@ -33719,8 +33719,8 @@
   "url": "https://en.wikipedia.org/wiki/List_of_districts_of_Manipur",
   "section": "Subdivisions",
   "type": "table",
-  "body": "0: Kakching, 1: Kakching, Waikhong",
-  "text": "List of districts of Manipur | Subdivisions | 0: Kakching, 1: Kakching, Waikhong"
+  "body": "Kakching, Kakching, Waikhong",
+  "text": "List of districts of Manipur | Subdivisions | Kakching, Kakching, Waikhong"
  },
  {
   "id": 3747,
@@ -33728,8 +33728,8 @@
   "url": "https://en.wikipedia.org/wiki/List_of_districts_of_Manipur",
   "section": "Subdivisions",
   "type": "table",
-  "body": "0: Tengnoupal, 1: Machi, Moreh, Tengnoupal",
-  "text": "List of districts of Manipur | Subdivisions | 0: Tengnoupal, 1: Machi, Moreh, Tengnoupal"
+  "body": "Tengnoupal, Machi, Moreh, Tengnoupal",
+  "text": "List of districts of Manipur | Subdivisions | Tengnoupal, Machi, Moreh, Tengnoupal"
  },
  {
   "id": 3748,
@@ -33737,8 +33737,8 @@
   "url": "https://en.wikipedia.org/wiki/List_of_districts_of_Manipur",
   "section": "Subdivisions",
   "type": "table",
-  "body": "0: Kamjong, 1: Kamjong, Kasom Khullen, Sahamphung, Phungyar",
-  "text": "List of districts of Manipur | Subdivisions | 0: Kamjong, 1: Kamjong, Kasom Khullen, Sahamphung, Phungyar"
+  "body": "Kamjong, Kamjong, Kasom Khullen, Sahamphung, Phungyar",
+  "text": "List of districts of Manipur | Subdivisions | Kamjong, Kamjong, Kasom Khullen, Sahamphung, Phungyar"
  },
  {
   "id": 3749,
@@ -33746,8 +33746,8 @@
   "url": "https://en.wikipedia.org/wiki/List_of_districts_of_Manipur",
   "section": "Subdivisions",
   "type": "table",
-  "body": "0: Noney, 1: Nungba, Khoupum, Longmai, Haochong",
-  "text": "List of districts of Manipur | Subdivisions | 0: Noney, 1: Nungba, Khoupum, Longmai, Haochong"
+  "body": "Noney, Nungba, Khoupum, Longmai, Haochong",
+  "text": "List of districts of Manipur | Subdivisions | Noney, Nungba, Khoupum, Longmai, Haochong"
  },
  {
   "id": 3750,
@@ -33755,8 +33755,8 @@
   "url": "https://en.wikipedia.org/wiki/List_of_districts_of_Manipur",
   "section": "Subdivisions",
   "type": "table",
-  "body": "0: Pherzawl, 1: Pherzawl, Parbung Tipaimukh, Vangai Range, Thanlon",
-  "text": "List of districts of Manipur | Subdivisions | 0: Pherzawl, 1: Pherzawl, Parbung Tipaimukh, Vangai Range, Thanlon"
+  "body": "Pherzawl, Pherzawl, Parbung Tipaimukh, Vangai Range, Thanlon",
+  "text": "List of districts of Manipur | Subdivisions | Pherzawl, Pherzawl, Parbung Tipaimukh, Vangai Range, Thanlon"
  },
  {
   "id": 3751,
@@ -34439,8 +34439,8 @@
   "url": "https://en.wikipedia.org/wiki/List_of_districts_of_Nagaland",
   "section": "Districts > Subdivisions",
   "type": "table",
-  "body": "0: District (DC headquarter), 1: Sub-districts (ADC headquarters), 2: Sub-divisions (SDO headquarters), 3: Circles (EAC headquarters)",
-  "text": "List of districts of Nagaland | Districts > Subdivisions | 0: District (DC headquarter), 1: Sub-districts (ADC headquarters), 2: Sub-divisions (SDO headquarters), 3: Circles (EAC headquarters)"
+  "body": "District (DC headquarter), Sub-districts (ADC headquarters), Sub-divisions (SDO headquarters), Circles (EAC headquarters)",
+  "text": "List of districts of Nagaland | Districts > Subdivisions | District (DC headquarter), Sub-districts (ADC headquarters), Sub-divisions (SDO headquarters), Circles (EAC headquarters)"
  },
  {
   "id": 3827,
@@ -34448,8 +34448,8 @@
   "url": "https://en.wikipedia.org/wiki/List_of_districts_of_Nagaland",
   "section": "Districts > Subdivisions",
   "type": "table",
-  "body": "0: Chümoukedima District, 1: Medziphema, 2: Chümoukedima, Dhansiripar, 3: Seithekema",
-  "text": "List of districts of Nagaland | Districts > Subdivisions | 0: Chümoukedima District, 1: Medziphema, 2: Chümoukedima, Dhansiripar, 3: Seithekema"
+  "body": "Chümoukedima District, Medziphema, Chümoukedima, Dhansiripar, Seithekema",
+  "text": "List of districts of Nagaland | Districts > Subdivisions | Chümoukedima District, Medziphema, Chümoukedima, Dhansiripar, Seithekema"
  },
  {
   "id": 3828,
@@ -34457,8 +34457,8 @@
   "url": "https://en.wikipedia.org/wiki/List_of_districts_of_Nagaland",
   "section": "Districts > Subdivisions",
   "type": "table",
-  "body": "0: Dimapur District, 1: –, 2: Kuhuboto, 3: –",
-  "text": "List of districts of Nagaland | Districts > Subdivisions | 0: Dimapur District, 1: –, 2: Kuhuboto, 3: –"
+  "body": "Dimapur District, –, Kuhuboto, –",
+  "text": "List of districts of Nagaland | Districts > Subdivisions | Dimapur District, –, Kuhuboto, –"
  },
  {
   "id": 3829,
@@ -34466,8 +34466,8 @@
   "url": "https://en.wikipedia.org/wiki/List_of_districts_of_Nagaland",
   "section": "Districts > Subdivisions",
   "type": "table",
-  "body": "0: Kiphire District, 1: Pungro, Seyochung, 2: –, 3: Amahator, Khonsa, Kiusam, Longmatra, Sitimi",
-  "text": "List of districts of Nagaland | Districts > Subdivisions | 0: Kiphire District, 1: Pungro, Seyochung, 2: –, 3: Amahator, Khonsa, Kiusam, Longmatra, Sitimi"
+  "body": "Kiphire District, Pungro, Seyochung, –, Amahator, Khonsa, Kiusam, Longmatra, Sitimi",
+  "text": "List of districts of Nagaland | Districts > Subdivisions | Kiphire District, Pungro, Seyochung, –, Amahator, Khonsa, Kiusam, Longmatra, Sitimi"
  },
  {
   "id": 3830,
@@ -34475,8 +34475,8 @@
   "url": "https://en.wikipedia.org/wiki/List_of_districts_of_Nagaland",
   "section": "Districts > Subdivisions",
   "type": "table",
-  "body": "0: Kohima District, 1: Chiephobozou, 2: Jakhama, Sechü Zubza, 3: Botsa, Kezocha",
-  "text": "List of districts of Nagaland | Districts > Subdivisions | 0: Kohima District, 1: Chiephobozou, 2: Jakhama, Sechü Zubza, 3: Botsa, Kezocha"
+  "body": "Kohima District, Chiephobozou, Jakhama, Sechü Zubza, Botsa, Kezocha",
+  "text": "List of districts of Nagaland | Districts > Subdivisions | Kohima District, Chiephobozou, Jakhama, Sechü Zubza, Botsa, Kezocha"
  },
  {
   "id": 3831,
@@ -34484,8 +34484,8 @@
   "url": "https://en.wikipedia.org/wiki/List_of_districts_of_Nagaland",
   "section": "Districts > Subdivisions",
   "type": "table",
-  "body": "0: Longleng District, 1: Tamlu, 2: –, 3: Bora Namsang, Sakshi, Yachem, Yongnyah",
-  "text": "List of districts of Nagaland | Districts > Subdivisions | 0: Longleng District, 1: Tamlu, 2: –, 3: Bora Namsang, Sakshi, Yachem, Yongnyah"
+  "body": "Longleng District, Tamlu, –, Bora Namsang, Sakshi, Yachem, Yongnyah",
+  "text": "List of districts of Nagaland | Districts > Subdivisions | Longleng District, Tamlu, –, Bora Namsang, Sakshi, Yachem, Yongnyah"
  },
  {
   "id": 3832,
@@ -34493,8 +34493,8 @@
   "url": "https://en.wikipedia.org/wiki/List_of_districts_of_Nagaland",
   "section": "Districts > Subdivisions",
   "type": "table",
-  "body": "0: Mokokchung District, 1: Mangkolemba, Tuli, 2: Changtongya, Tzürangkong, 3: Alongkima, Chuchuyimlang, Kobulong, Longchem, Merangmen, Ongpangkong",
-  "text": "List of districts of Nagaland | Districts > Subdivisions | 0: Mokokchung District, 1: Mangkolemba, Tuli, 2: Changtongya, Tzürangkong, 3: Alongkima, Chuchuyimlang, Kobulong, Longchem, Merangmen, Ongpangkong"
+  "body": "Mokokchung District, Mangkolemba, Tuli, Changtongya, Tzürangkong, Alongkima, Chuchuyimlang, Kobulong, Longchem, Merangmen, Ongpangkong",
+  "text": "List of districts of Nagaland | Districts > Subdivisions | Mokokchung District, Mangkolemba, Tuli, Changtongya, Tzürangkong, Alongkima, Chuchuyimlang, Kobulong, Longchem, Merangmen, Ongpangkong"
  },
  {
   "id": 3833,
@@ -34502,8 +34502,8 @@
   "url": "https://en.wikipedia.org/wiki/List_of_districts_of_Nagaland",
   "section": "Districts > Subdivisions",
   "type": "table",
-  "body": "0: Mon District, 1: Aboi, Naginimora, Tizit, Tobu, 2: Angjangyang, Chen, Monyakshu, Phomching, Wakching, 3: Hunta, Longching, Longshen, Mopung, Shangnyu",
-  "text": "List of districts of Nagaland | Districts > Subdivisions | 0: Mon District, 1: Aboi, Naginimora, Tizit, Tobu, 2: Angjangyang, Chen, Monyakshu, Phomching, Wakching, 3: Hunta, Longching, Longshen, Mopung, Shangnyu"
+  "body": "Mon District, Aboi, Naginimora, Tizit, Tobu, Angjangyang, Chen, Monyakshu, Phomching, Wakching, Hunta, Longching, Longshen, Mopung, Shangnyu",
+  "text": "List of districts of Nagaland | Districts > Subdivisions | Mon District, Aboi, Naginimora, Tizit, Tobu, Angjangyang, Chen, Monyakshu, Phomching, Wakching, Hunta, Longching, Longshen, Mopung, Shangnyu"
  },
  {
   "id": 3834,
@@ -34511,8 +34511,8 @@
   "url": "https://en.wikipedia.org/wiki/List_of_districts_of_Nagaland",
   "section": "Districts > Subdivisions",
   "type": "table",
-  "body": "0: Niuland District, 1: –, 2: –, 3: Aghunaqa, Nihokhu",
-  "text": "List of districts of Nagaland | Districts > Subdivisions | 0: Niuland District, 1: –, 2: –, 3: Aghunaqa, Nihokhu"
+  "body": "Niuland District, –, –, Aghunaqa, Nihokhu",
+  "text": "List of districts of Nagaland | Districts > Subdivisions | Niuland District, –, –, Aghunaqa, Nihokhu"
  },
  {
   "id": 3835,
@@ -34520,8 +34520,8 @@
   "url": "https://en.wikipedia.org/wiki/List_of_districts_of_Nagaland",
   "section": "Districts > Subdivisions",
   "type": "table",
-  "body": "0: Noklak District, 1: –, 2: Thonoknyu, 3: Nokhu, Panso",
-  "text": "List of districts of Nagaland | Districts > Subdivisions | 0: Noklak District, 1: –, 2: Thonoknyu, 3: Nokhu, Panso"
+  "body": "Noklak District, –, Thonoknyu, Nokhu, Panso",
+  "text": "List of districts of Nagaland | Districts > Subdivisions | Noklak District, –, Thonoknyu, Nokhu, Panso"
  },
  {
   "id": 3836,
@@ -34529,8 +34529,8 @@
   "url": "https://en.wikipedia.org/wiki/List_of_districts_of_Nagaland",
   "section": "Districts > Subdivisions",
   "type": "table",
-  "body": "0: Peren District, 1: Tening, Jalukie, 2: Athibung, 3: Kebai–Khelma, Ngwalwa, Nsong",
-  "text": "List of districts of Nagaland | Districts > Subdivisions | 0: Peren District, 1: Tening, Jalukie, 2: Athibung, 3: Kebai–Khelma, Ngwalwa, Nsong"
+  "body": "Peren District, Tening, Jalukie, Athibung, Kebai–Khelma, Ngwalwa, Nsong",
+  "text": "List of districts of Nagaland | Districts > Subdivisions | Peren District, Tening, Jalukie, Athibung, Kebai–Khelma, Ngwalwa, Nsong"
  },
  {
   "id": 3837,
@@ -34538,8 +34538,8 @@
   "url": "https://en.wikipedia.org/wiki/List_of_districts_of_Nagaland",
   "section": "Districts > Subdivisions",
   "type": "table",
-  "body": "0: Phek District, 1: Chozuba, Meluri, Pfütsero, 2: Chizami, 3: Sakraba, Sekrüzu, Phokungri, Khezhakeno, Chetheba, Khuza, Zuketsa, Phor, Lephory, Razeba",
-  "text": "List of districts of Nagaland | Districts > Subdivisions | 0: Phek District, 1: Chozuba, Meluri, Pfütsero, 2: Chizami, 3: Sakraba, Sekrüzu, Phokungri, Khezhakeno, Chetheba, Khuza, Zuketsa, Phor, Lephory, Razeba"
+  "body": "Phek District, Chozuba, Meluri, Pfütsero, Chizami, Sakraba, Sekrüzu, Phokungri, Khezhakeno, Chetheba, Khuza, Zuketsa, Phor, Lephory, Razeba",
+  "text": "List of districts of Nagaland | Districts > Subdivisions | Phek District, Chozuba, Meluri, Pfütsero, Chizami, Sakraba, Sekrüzu, Phokungri, Khezhakeno, Chetheba, Khuza, Zuketsa, Phor, Lephory, Razeba"
  },
  {
   "id": 3838,
@@ -34547,8 +34547,8 @@
   "url": "https://en.wikipedia.org/wiki/List_of_districts_of_Nagaland",
   "section": "Districts > Subdivisions",
   "type": "table",
-  "body": "0: Shamator District, 1: –, 2: Chessore, 3: Mangko, Tsurangto",
-  "text": "List of districts of Nagaland | Districts > Subdivisions | 0: Shamator District, 1: –, 2: Chessore, 3: Mangko, Tsurangto"
+  "body": "Shamator District, –, Chessore, Mangko, Tsurangto",
+  "text": "List of districts of Nagaland | Districts > Subdivisions | Shamator District, –, Chessore, Mangko, Tsurangto"
  },
  {
   "id": 3839,
@@ -34556,8 +34556,8 @@
   "url": "https://en.wikipedia.org/wiki/List_of_districts_of_Nagaland",
   "section": "Districts > Subdivisions",
   "type": "table",
-  "body": "0: Tuensang District, 1: Longkhim, 2: Noksen, 3: Chare, Chingmei, Ngoungchung, Sangsangnyu, Sotokur",
-  "text": "List of districts of Nagaland | Districts > Subdivisions | 0: Tuensang District, 1: Longkhim, 2: Noksen, 3: Chare, Chingmei, Ngoungchung, Sangsangnyu, Sotokur"
+  "body": "Tuensang District, Longkhim, Noksen, Chare, Chingmei, Ngoungchung, Sangsangnyu, Sotokur",
+  "text": "List of districts of Nagaland | Districts > Subdivisions | Tuensang District, Longkhim, Noksen, Chare, Chingmei, Ngoungchung, Sangsangnyu, Sotokur"
  },
  {
   "id": 3840,
@@ -34565,8 +34565,8 @@
   "url": "https://en.wikipedia.org/wiki/List_of_districts_of_Nagaland",
   "section": "Districts > Subdivisions",
   "type": "table",
-  "body": "0: Tseminyü District, 1: –, 2: –, 3: Tsogin",
-  "text": "List of districts of Nagaland | Districts > Subdivisions | 0: Tseminyü District, 1: –, 2: –, 3: Tsogin"
+  "body": "Tseminyü District, –, –, Tsogin",
+  "text": "List of districts of Nagaland | Districts > Subdivisions | Tseminyü District, –, –, Tsogin"
  },
  {
   "id": 3841,
@@ -34574,8 +34574,8 @@
   "url": "https://en.wikipedia.org/wiki/List_of_districts_of_Nagaland",
   "section": "Districts > Subdivisions",
   "type": "table",
-  "body": "0: Wokha District, 1: Bhandari, Sanis, 2: Ralan, 3: Aitepyong, Baghty, Champang, Chukitong, Englan, Lotsü, Süngro, Wozhüro",
-  "text": "List of districts of Nagaland | Districts > Subdivisions | 0: Wokha District, 1: Bhandari, Sanis, 2: Ralan, 3: Aitepyong, Baghty, Champang, Chukitong, Englan, Lotsü, Süngro, Wozhüro"
+  "body": "Wokha District, Bhandari, Sanis, Ralan, Aitepyong, Baghty, Champang, Chukitong, Englan, Lotsü, Süngro, Wozhüro",
+  "text": "List of districts of Nagaland | Districts > Subdivisions | Wokha District, Bhandari, Sanis, Ralan, Aitepyong, Baghty, Champang, Chukitong, Englan, Lotsü, Süngro, Wozhüro"
  },
  {
   "id": 3842,
@@ -34583,8 +34583,8 @@
   "url": "https://en.wikipedia.org/wiki/List_of_districts_of_Nagaland",
   "section": "Districts > Subdivisions",
   "type": "table",
-  "body": "0: Zünheboto District, 1: Aghunato, Akuluto, Atoizu, Pughoboto, Satakha, 2: Suruhuto, 3: Akuhaito, Asuto, Ghathashi, Hoshepu, Saptiqa, Satoi, V. K",
-  "text": "List of districts of Nagaland | Districts > Subdivisions | 0: Zünheboto District, 1: Aghunato, Akuluto, Atoizu, Pughoboto, Satakha, 2: Suruhuto, 3: Akuhaito, Asuto, Ghathashi, Hoshepu, Saptiqa, Satoi, V. K"
+  "body": "Zünheboto District, Aghunato, Akuluto, Atoizu, Pughoboto, Satakha, Suruhuto, Akuhaito, Asuto, Ghathashi, Hoshepu, Saptiqa, Satoi, V. K",
+  "text": "List of districts of Nagaland | Districts > Subdivisions | Zünheboto District, Aghunato, Akuluto, Atoizu, Pughoboto, Satakha, Suruhuto, Akuhaito, Asuto, Ghathashi, Hoshepu, Saptiqa, Satoi, V. K"
  },
  {
   "id": 3843,
@@ -36428,8 +36428,8 @@
   "url": "https://en.wikipedia.org/wiki/List_of_districts_of_Puducherry",
   "section": "Districts",
   "type": "table",
-  "body": "0: ISO 3166-2 Code, 1: Sl No, 2: District, 3: Headquarters, 4: Population (2011), 5: Area (km2), 6: Density (/km2), 7: Official website",
-  "text": "List of districts of Puducherry | Districts | 0: ISO 3166-2 Code, 1: Sl No, 2: District, 3: Headquarters, 4: Population (2011), 5: Area (km2), 6: Density (/km2), 7: Official website"
+  "body": "ISO 3166-2 Code, Sl No, District, Headquarters, Population (2011), Area (km2), Density (/km2), Official website",
+  "text": "List of districts of Puducherry | Districts | ISO 3166-2 Code, Sl No, District, Headquarters, Population (2011), Area (km2), Density (/km2), Official website"
  },
  {
   "id": 4048,
@@ -36437,8 +36437,8 @@
   "url": "https://en.wikipedia.org/wiki/List_of_districts_of_Puducherry",
   "section": "Districts",
   "type": "table",
-  "body": "0: IN-PY-KA, 2: Karaikal district, 3: Karaikal, 4: 200222, 5: 160, 6: 1252, 7: http://karaikal.gov.in/",
-  "text": "List of districts of Puducherry | Districts | 0: IN-PY-KA, 2: Karaikal district, 3: Karaikal, 4: 200222, 5: 160, 6: 1252, 7: http://karaikal.gov.in/"
+  "body": "IN-PY-KA, 1, Karaikal district, Karaikal, 200222, 160, 1252, http://karaikal.gov.in/",
+  "text": "List of districts of Puducherry | Districts | IN-PY-KA, 1, Karaikal district, Karaikal, 200222, 160, 1252, http://karaikal.gov.in/"
  },
  {
   "id": 4049,
@@ -36446,8 +36446,8 @@
   "url": "https://en.wikipedia.org/wiki/List_of_districts_of_Puducherry",
   "section": "Districts",
   "type": "table",
-  "body": "0: IN-PY-MA, 1: 2, 2: Mahé district, 3: Mahé, 4: 41934, 5: 9, 6: 4659, 7: http://mahe.gov.in/",
-  "text": "List of districts of Puducherry | Districts | 0: IN-PY-MA, 1: 2, 2: Mahé district, 3: Mahé, 4: 41934, 5: 9, 6: 4659, 7: http://mahe.gov.in/"
+  "body": "IN-PY-MA, 2, Mahé district, Mahé, 41934, 9, 4659, http://mahe.gov.in/",
+  "text": "List of districts of Puducherry | Districts | IN-PY-MA, 2, Mahé district, Mahé, 41934, 9, 4659, http://mahe.gov.in/"
  },
  {
   "id": 4050,
@@ -36455,8 +36455,8 @@
   "url": "https://en.wikipedia.org/wiki/List_of_districts_of_Puducherry",
   "section": "Districts",
   "type": "table",
-  "body": "0: IN-PY-PO, 1: 3, 2: Puducherry district, 3: Pondicherry, 4: 946600, 5: 293, 6: 3231, 7: http://puducherry-dt.gov.in/",
-  "text": "List of districts of Puducherry | Districts | 0: IN-PY-PO, 1: 3, 2: Puducherry district, 3: Pondicherry, 4: 946600, 5: 293, 6: 3231, 7: http://puducherry-dt.gov.in/"
+  "body": "IN-PY-PO, 3, Puducherry district, Pondicherry, 946600, 293, 3231, http://puducherry-dt.gov.in/",
+  "text": "List of districts of Puducherry | Districts | IN-PY-PO, 3, Puducherry district, Pondicherry, 946600, 293, 3231, http://puducherry-dt.gov.in/"
  },
  {
   "id": 4051,
@@ -36464,8 +36464,8 @@
   "url": "https://en.wikipedia.org/wiki/List_of_districts_of_Puducherry",
   "section": "Districts",
   "type": "table",
-  "body": "0: IN-PY-YA, 1: 4, 2: Yanam district, 3: Yanam, 4: 55616, 5: 30, 6: 3272, 7: http://yanam.gov.in/",
-  "text": "List of districts of Puducherry | Districts | 0: IN-PY-YA, 1: 4, 2: Yanam district, 3: Yanam, 4: 55616, 5: 30, 6: 3272, 7: http://yanam.gov.in/"
+  "body": "IN-PY-YA, 4, Yanam district, Yanam, 55616, 30, 3272, http://yanam.gov.in/",
+  "text": "List of districts of Puducherry | Districts | IN-PY-YA, 4, Yanam district, Yanam, 55616, 30, 3272, http://yanam.gov.in/"
  },
  {
   "id": 4052,
@@ -36959,8 +36959,8 @@
   "url": "https://en.wikipedia.org/wiki/List_of_districts_of_Rajasthan",
   "section": "List",
   "type": "table",
-  "body": "0: Districts of Rajasthan (Overpass-turbo)",
-  "text": "List of districts of Rajasthan | List | 0: Districts of Rajasthan (Overpass-turbo)"
+  "body": "Districts of Rajasthan (Overpass-turbo)",
+  "text": "List of districts of Rajasthan | List | Districts of Rajasthan (Overpass-turbo)"
  },
  {
   "id": 4107,
@@ -39137,8 +39137,8 @@
   "url": "https://en.wikipedia.org/wiki/List_of_districts_of_Tripura",
   "section": "History > Former administrative districts",
   "type": "table",
-  "body": "0: Code, 1: District, 2: Headquarters, 3: Population (2011), 4: Area (km²), 5: Density (/km²), 6: Official website",
-  "text": "List of districts of Tripura | History > Former administrative districts | 0: Code, 1: District, 2: Headquarters, 3: Population (2011), 4: Area (km²), 5: Density (/km²), 6: Official website"
+  "body": "Code, District, Headquarters, Population (2011), Area (km²), Density (/km²), Official website",
+  "text": "List of districts of Tripura | History > Former administrative districts | Code, District, Headquarters, Population (2011), Area (km²), Density (/km²), Official website"
  },
  {
   "id": 4349,
@@ -39146,8 +39146,8 @@
   "url": "https://en.wikipedia.org/wiki/List_of_districts_of_Tripura",
   "section": "History > Former administrative districts",
   "type": "table",
-  "body": "0: DH, 1: Dhalai, 2: Ambassa, 3: 377988, 4: 2523, 5: 157, 6: http://dhalai.gov.in/",
-  "text": "List of districts of Tripura | History > Former administrative districts | 0: DH, 1: Dhalai, 2: Ambassa, 3: 377988, 4: 2523, 5: 157, 6: http://dhalai.gov.in/"
+  "body": "DH, Dhalai, Ambassa, 377988, 2523, 157, http://dhalai.gov.in/",
+  "text": "List of districts of Tripura | History > Former administrative districts | DH, Dhalai, Ambassa, 377988, 2523, 157, http://dhalai.gov.in/"
  },
  {
   "id": 4350,
@@ -39155,8 +39155,8 @@
   "url": "https://en.wikipedia.org/wiki/List_of_districts_of_Tripura",
   "section": "History > Former administrative districts",
   "type": "table",
-  "body": "0: NT, 1: North Tripura, 2: Kailashahar, 3: 693281, 4: 2821, 5: 341, 6: http://northtripura.nic.in/",
-  "text": "List of districts of Tripura | History > Former administrative districts | 0: NT, 1: North Tripura, 2: Kailashahar, 3: 693281, 4: 2821, 5: 341, 6: http://northtripura.nic.in/"
+  "body": "NT, North Tripura, Kailashahar, 693281, 2821, 341, http://northtripura.nic.in/",
+  "text": "List of districts of Tripura | History > Former administrative districts | NT, North Tripura, Kailashahar, 693281, 2821, 341, http://northtripura.nic.in/"
  },
  {
   "id": 4351,
@@ -39164,8 +39164,8 @@
   "url": "https://en.wikipedia.org/wiki/List_of_districts_of_Tripura",
   "section": "History > Former administrative districts",
   "type": "table",
-  "body": "0: ST, 1: South Tripura, 2: Udaipur, 3: 875144, 4: 2152, 5: 286, 6: http://southtripura.nic.in/",
-  "text": "List of districts of Tripura | History > Former administrative districts | 0: ST, 1: South Tripura, 2: Udaipur, 3: 875144, 4: 2152, 5: 286, 6: http://southtripura.nic.in/"
+  "body": "ST, South Tripura, Udaipur, 875144, 2152, 286, http://southtripura.nic.in/",
+  "text": "List of districts of Tripura | History > Former administrative districts | ST, South Tripura, Udaipur, 875144, 2152, 286, http://southtripura.nic.in/"
  },
  {
   "id": 4352,
@@ -39173,8 +39173,8 @@
   "url": "https://en.wikipedia.org/wiki/List_of_districts_of_Tripura",
   "section": "History > Former administrative districts",
   "type": "table",
-  "body": "0: WT, 1: West Tripura, 2: Agartala, 3: 1724619, 4: 2997, 5: 576, 6: http://westtripura.nic.in/",
-  "text": "List of districts of Tripura | History > Former administrative districts | 0: WT, 1: West Tripura, 2: Agartala, 3: 1724619, 4: 2997, 5: 576, 6: http://westtripura.nic.in/"
+  "body": "WT, West Tripura, Agartala, 1724619, 2997, 576, http://westtripura.nic.in/",
+  "text": "List of districts of Tripura | History > Former administrative districts | WT, West Tripura, Agartala, 1724619, 2997, 576, http://westtripura.nic.in/"
  },
  {
   "id": 4353,
@@ -44078,8 +44078,8 @@
   "url": "https://en.wikipedia.org/wiki/Maharashtra",
   "section": "Economy",
   "type": "table",
-  "body": "0: Net state domestic product at factor cost at current prices (2004–05 base) Figures in crores of Indian rupees, 1: Net state domestic product at factor cost at current prices (2004–05 base) Figures in crores of Indian rupees",
-  "text": "Maharashtra | Economy | 0: Net state domestic product at factor cost at current prices (2004–05 base) Figures in crores of Indian rupees, 1: Net state domestic product at factor cost at current prices (2004–05 base) Figures in crores of Indian rupees"
+  "body": "Net state domestic product at factor cost at current prices (2004–05 base) Figures in crores of Indian rupees, Net state domestic product at factor cost at current prices (2004–05 base) Figures in crores of Indian rupees",
+  "text": "Maharashtra | Economy | Net state domestic product at factor cost at current prices (2004–05 base) Figures in crores of Indian rupees, Net state domestic product at factor cost at current prices (2004–05 base) Figures in crores of Indian rupees"
  },
  {
   "id": 4898,
@@ -44087,8 +44087,8 @@
   "url": "https://en.wikipedia.org/wiki/Maharashtra",
   "section": "Economy",
   "type": "table",
-  "body": "0: Year, 1: Net state domestic product",
-  "text": "Maharashtra | Economy | 0: Year, 1: Net state domestic product"
+  "body": "Year, Net state domestic product",
+  "text": "Maharashtra | Economy | Year, Net state domestic product"
  },
  {
   "id": 4899,
@@ -44096,8 +44096,8 @@
   "url": "https://en.wikipedia.org/wiki/Maharashtra",
   "section": "Economy",
   "type": "table",
-  "body": "0: 2004–2005, 1: ₹3.683 trillion (US$38 billion)",
-  "text": "Maharashtra | Economy | 0: 2004–2005, 1: ₹3.683 trillion (US$38 billion)"
+  "body": "2004–2005, ₹3.683 trillion (US$38 billion)",
+  "text": "Maharashtra | Economy | 2004–2005, ₹3.683 trillion (US$38 billion)"
  },
  {
   "id": 4900,
@@ -44105,8 +44105,8 @@
   "url": "https://en.wikipedia.org/wiki/Maharashtra",
   "section": "Economy",
   "type": "table",
-  "body": "0: 2005–2006, 1: ₹4.335 trillion (US$45 billion)",
-  "text": "Maharashtra | Economy | 0: 2005–2006, 1: ₹4.335 trillion (US$45 billion)"
+  "body": "2005–2006, ₹4.335 trillion (US$45 billion)",
+  "text": "Maharashtra | Economy | 2005–2006, ₹4.335 trillion (US$45 billion)"
  },
  {
   "id": 4901,
@@ -44114,8 +44114,8 @@
   "url": "https://en.wikipedia.org/wiki/Maharashtra",
   "section": "Economy",
   "type": "table",
-  "body": "0: 2006–2007, 1: ₹5.241 trillion (US$54 billion)",
-  "text": "Maharashtra | Economy | 0: 2006–2007, 1: ₹5.241 trillion (US$54 billion)"
+  "body": "2006–2007, ₹5.241 trillion (US$54 billion)",
+  "text": "Maharashtra | Economy | 2006–2007, ₹5.241 trillion (US$54 billion)"
  },
  {
   "id": 4902,
@@ -44123,8 +44123,8 @@
   "url": "https://en.wikipedia.org/wiki/Maharashtra",
   "section": "Economy",
   "type": "table",
-  "body": "0: 2007–2008, 1: ₹6.140 trillion (US$64 billion)",
-  "text": "Maharashtra | Economy | 0: 2007–2008, 1: ₹6.140 trillion (US$64 billion)"
+  "body": "2007–2008, ₹6.140 trillion (US$64 billion)",
+  "text": "Maharashtra | Economy | 2007–2008, ₹6.140 trillion (US$64 billion)"
  },
  {
   "id": 4903,
@@ -44132,8 +44132,8 @@
   "url": "https://en.wikipedia.org/wiki/Maharashtra",
   "section": "Economy",
   "type": "table",
-  "body": "0: 2008–2009, 1: ₹6.996 trillion (US$73 billion)",
-  "text": "Maharashtra | Economy | 0: 2008–2009, 1: ₹6.996 trillion (US$73 billion)"
+  "body": "2008–2009, ₹6.996 trillion (US$73 billion)",
+  "text": "Maharashtra | Economy | 2008–2009, ₹6.996 trillion (US$73 billion)"
  },
  {
   "id": 4904,
@@ -44141,8 +44141,8 @@
   "url": "https://en.wikipedia.org/wiki/Maharashtra",
   "section": "Economy",
   "type": "table",
-  "body": "0: 2009–2010, 1: ₹8.178 trillion (US$85 billion)",
-  "text": "Maharashtra | Economy | 0: 2009–2010, 1: ₹8.178 trillion (US$85 billion)"
+  "body": "2009–2010, ₹8.178 trillion (US$85 billion)",
+  "text": "Maharashtra | Economy | 2009–2010, ₹8.178 trillion (US$85 billion)"
  },
  {
   "id": 4905,
@@ -44150,8 +44150,8 @@
   "url": "https://en.wikipedia.org/wiki/Maharashtra",
   "section": "Economy",
   "type": "table",
-  "body": "0: 2011-2012, 1: ₹12.803 trillion (US$130 billion)",
-  "text": "Maharashtra | Economy | 0: 2011-2012, 1: ₹12.803 trillion (US$130 billion)"
+  "body": "2011-2012, ₹12.803 trillion (US$130 billion)",
+  "text": "Maharashtra | Economy | 2011-2012, ₹12.803 trillion (US$130 billion)"
  },
  {
   "id": 4906,
@@ -44159,8 +44159,8 @@
   "url": "https://en.wikipedia.org/wiki/Maharashtra",
   "section": "Economy",
   "type": "table",
-  "body": "0: 2012-2013, 1: ₹14.596 trillion (US$150 billion)",
-  "text": "Maharashtra | Economy | 0: 2012-2013, 1: ₹14.596 trillion (US$150 billion)"
+  "body": "2012-2013, ₹14.596 trillion (US$150 billion)",
+  "text": "Maharashtra | Economy | 2012-2013, ₹14.596 trillion (US$150 billion)"
  },
  {
   "id": 4907,
@@ -44168,8 +44168,8 @@
   "url": "https://en.wikipedia.org/wiki/Maharashtra",
   "section": "Economy",
   "type": "table",
-  "body": "0: 2013–2014, 1: ₹16.496 trillion (US$170 billion)",
-  "text": "Maharashtra | Economy | 0: 2013–2014, 1: ₹16.496 trillion (US$170 billion)"
+  "body": "2013–2014, ₹16.496 trillion (US$170 billion)",
+  "text": "Maharashtra | Economy | 2013–2014, ₹16.496 trillion (US$170 billion)"
  },
  {
   "id": 4908,
@@ -44177,8 +44177,8 @@
   "url": "https://en.wikipedia.org/wiki/Maharashtra",
   "section": "Economy",
   "type": "table",
-  "body": "0: 2014–2015, 1: ₹17.791 trillion (US$180 billion)",
-  "text": "Maharashtra | Economy | 0: 2014–2015, 1: ₹17.791 trillion (US$180 billion)"
+  "body": "2014–2015, ₹17.791 trillion (US$180 billion)",
+  "text": "Maharashtra | Economy | 2014–2015, ₹17.791 trillion (US$180 billion)"
  },
  {
   "id": 4909,
@@ -44186,8 +44186,8 @@
   "url": "https://en.wikipedia.org/wiki/Maharashtra",
   "section": "Economy",
   "type": "table",
-  "body": "0: 2015–2016, 1: ₹19.662 trillion (US$200 billion)",
-  "text": "Maharashtra | Economy | 0: 2015–2016, 1: ₹19.662 trillion (US$200 billion)"
+  "body": "2015–2016, ₹19.662 trillion (US$200 billion)",
+  "text": "Maharashtra | Economy | 2015–2016, ₹19.662 trillion (US$200 billion)"
  },
  {
   "id": 4910,
@@ -44195,8 +44195,8 @@
   "url": "https://en.wikipedia.org/wiki/Maharashtra",
   "section": "Economy",
   "type": "table",
-  "body": "0: 2016–2017, 1: ₹21.982 trillion (US$230 billion)",
-  "text": "Maharashtra | Economy | 0: 2016–2017, 1: ₹21.982 trillion (US$230 billion)"
+  "body": "2016–2017, ₹21.982 trillion (US$230 billion)",
+  "text": "Maharashtra | Economy | 2016–2017, ₹21.982 trillion (US$230 billion)"
  },
  {
   "id": 4911,
@@ -44204,8 +44204,8 @@
   "url": "https://en.wikipedia.org/wiki/Maharashtra",
   "section": "Economy",
   "type": "table",
-  "body": "0: 2017–2018, 1: ₹23.528 trillion (US$240 billion)",
-  "text": "Maharashtra | Economy | 0: 2017–2018, 1: ₹23.528 trillion (US$240 billion)"
+  "body": "2017–2018, ₹23.528 trillion (US$240 billion)",
+  "text": "Maharashtra | Economy | 2017–2018, ₹23.528 trillion (US$240 billion)"
  },
  {
   "id": 4912,
@@ -44213,8 +44213,8 @@
   "url": "https://en.wikipedia.org/wiki/Maharashtra",
   "section": "Economy",
   "type": "table",
-  "body": "0: 2018–2019, 1: ₹25.289 trillion (US$260 billion)",
-  "text": "Maharashtra | Economy | 0: 2018–2019, 1: ₹25.289 trillion (US$260 billion)"
+  "body": "2018–2019, ₹25.289 trillion (US$260 billion)",
+  "text": "Maharashtra | Economy | 2018–2019, ₹25.289 trillion (US$260 billion)"
  },
  {
   "id": 4913,
@@ -44222,8 +44222,8 @@
   "url": "https://en.wikipedia.org/wiki/Maharashtra",
   "section": "Economy",
   "type": "table",
-  "body": "0: 2019–2020, 1: ₹26.568 trillion (US$280 billion)",
-  "text": "Maharashtra | Economy | 0: 2019–2020, 1: ₹26.568 trillion (US$280 billion)"
+  "body": "2019–2020, ₹26.568 trillion (US$280 billion)",
+  "text": "Maharashtra | Economy | 2019–2020, ₹26.568 trillion (US$280 billion)"
  },
  {
   "id": 4914,
@@ -44231,8 +44231,8 @@
   "url": "https://en.wikipedia.org/wiki/Maharashtra",
   "section": "Economy",
   "type": "table",
-  "body": "0: 2020-2021, 1: ₹26.102 trillion (US$270 billion)",
-  "text": "Maharashtra | Economy | 0: 2020-2021, 1: ₹26.102 trillion (US$270 billion)"
+  "body": "2020-2021, ₹26.102 trillion (US$270 billion)",
+  "text": "Maharashtra | Economy | 2020-2021, ₹26.102 trillion (US$270 billion)"
  },
  {
   "id": 4915,
@@ -44240,8 +44240,8 @@
   "url": "https://en.wikipedia.org/wiki/Maharashtra",
   "section": "Economy",
   "type": "table",
-  "body": "0: 2021–2022, 1: ₹31.438 trillion (US$330 billion)",
-  "text": "Maharashtra | Economy | 0: 2021–2022, 1: ₹31.438 trillion (US$330 billion)"
+  "body": "2021–2022, ₹31.438 trillion (US$330 billion)",
+  "text": "Maharashtra | Economy | 2021–2022, ₹31.438 trillion (US$330 billion)"
  },
  {
   "id": 4916,
@@ -44249,8 +44249,8 @@
   "url": "https://en.wikipedia.org/wiki/Maharashtra",
   "section": "Economy",
   "type": "table",
-  "body": "0: 2022–2023, 1: ₹36.654 trillion (US$380 billion)",
-  "text": "Maharashtra | Economy | 0: 2022–2023, 1: ₹36.654 trillion (US$380 billion)"
+  "body": "2022–2023, ₹36.654 trillion (US$380 billion)",
+  "text": "Maharashtra | Economy | 2022–2023, ₹36.654 trillion (US$380 billion)"
  },
  {
   "id": 4917,
@@ -44258,8 +44258,8 @@
   "url": "https://en.wikipedia.org/wiki/Maharashtra",
   "section": "Economy",
   "type": "table",
-  "body": "0: 2023–2024, 1: ₹41.184 trillion (US$430 billion)",
-  "text": "Maharashtra | Economy | 0: 2023–2024, 1: ₹41.184 trillion (US$430 billion)"
+  "body": "2023–2024, ₹41.184 trillion (US$430 billion)",
+  "text": "Maharashtra | Economy | 2023–2024, ₹41.184 trillion (US$430 billion)"
  },
  {
   "id": 4918,
@@ -44267,8 +44267,8 @@
   "url": "https://en.wikipedia.org/wiki/Maharashtra",
   "section": "Economy",
   "type": "table",
-  "body": "0: 2024–2025, 1: ₹46.221 trillion (US$480 billion)",
-  "text": "Maharashtra | Economy | 0: 2024–2025, 1: ₹46.221 trillion (US$480 billion)"
+  "body": "2024–2025, ₹46.221 trillion (US$480 billion)",
+  "text": "Maharashtra | Economy | 2024–2025, ₹46.221 trillion (US$480 billion)"
  },
  {
   "id": 4919,
@@ -44276,8 +44276,8 @@
   "url": "https://en.wikipedia.org/wiki/Maharashtra",
   "section": "Economy",
   "type": "table",
-  "body": "0: 2025-2026, 1: ₹51.006 trillion (US$530 billion)",
-  "text": "Maharashtra | Economy | 0: 2025-2026, 1: ₹51.006 trillion (US$530 billion)"
+  "body": "2025-2026, ₹51.006 trillion (US$530 billion)",
+  "text": "Maharashtra | Economy | 2025-2026, ₹51.006 trillion (US$530 billion)"
  },
  {
   "id": 4920,
@@ -44285,8 +44285,8 @@
   "url": "https://en.wikipedia.org/wiki/Maharashtra",
   "section": "Economy",
   "type": "table",
-  "body": "0: 2026-2027, 1: ₹54.086 trillion (US$560 billion)",
-  "text": "Maharashtra | Economy | 0: 2026-2027, 1: ₹54.086 trillion (US$560 billion)"
+  "body": "2026-2027, ₹54.086 trillion (US$560 billion)",
+  "text": "Maharashtra | Economy | 2026-2027, ₹54.086 trillion (US$560 billion)"
  },
  {
   "id": 4921,
@@ -45338,8 +45338,8 @@
   "url": "https://en.wikipedia.org/wiki/Manipur",
   "section": "Demographics > Population",
   "type": "table",
-  "body": "0: Total Population, 1: 2855794",
-  "text": "Manipur | Demographics > Population | Demographics of Manipur (2011) | 0: Total Population, 1: 2855794"
+  "body": "Total Population, 2855794",
+  "text": "Manipur | Demographics > Population | Demographics of Manipur (2011) | Total Population, 2855794"
  },
  {
   "id": 5038,
@@ -45347,8 +45347,8 @@
   "url": "https://en.wikipedia.org/wiki/Manipur",
   "section": "Demographics > Population",
   "type": "table",
-  "body": "0: Male Population, 1: 1438586",
-  "text": "Manipur | Demographics > Population | Demographics of Manipur (2011) | 0: Male Population, 1: 1438586"
+  "body": "Male Population, 1438586",
+  "text": "Manipur | Demographics > Population | Demographics of Manipur (2011) | Male Population, 1438586"
  },
  {
   "id": 5039,
@@ -45356,8 +45356,8 @@
   "url": "https://en.wikipedia.org/wiki/Manipur",
   "section": "Demographics > Population",
   "type": "table",
-  "body": "0: Female Population, 1: 1417208",
-  "text": "Manipur | Demographics > Population | Demographics of Manipur (2011) | 0: Female Population, 1: 1417208"
+  "body": "Female Population, 1417208",
+  "text": "Manipur | Demographics > Population | Demographics of Manipur (2011) | Female Population, 1417208"
  },
  {
   "id": 5040,
@@ -45365,8 +45365,8 @@
   "url": "https://en.wikipedia.org/wiki/Manipur",
   "section": "Demographics > Population",
   "type": "table",
-  "body": "0: Rural Population, 1: 1736236",
-  "text": "Manipur | Demographics > Population | Demographics of Manipur (2011) | 0: Rural Population, 1: 1736236"
+  "body": "Rural Population, 1736236",
+  "text": "Manipur | Demographics > Population | Demographics of Manipur (2011) | Rural Population, 1736236"
  },
  {
   "id": 5041,
@@ -45374,8 +45374,8 @@
   "url": "https://en.wikipedia.org/wiki/Manipur",
   "section": "Demographics > Population",
   "type": "table",
-  "body": "0: Urban Population, 1: 834154",
-  "text": "Manipur | Demographics > Population | Demographics of Manipur (2011) | 0: Urban Population, 1: 834154"
+  "body": "Urban Population, 834154",
+  "text": "Manipur | Demographics > Population | Demographics of Manipur (2011) | Urban Population, 834154"
  },
  {
   "id": 5042,
@@ -45383,8 +45383,8 @@
   "url": "https://en.wikipedia.org/wiki/Manipur",
   "section": "Demographics > Population",
   "type": "table",
-  "body": "0: Child Sex Ratio, 1: 936 female to 1000 male",
-  "text": "Manipur | Demographics > Population | Demographics of Manipur (2011) | 0: Child Sex Ratio, 1: 936 female to 1000 male"
+  "body": "Child Sex Ratio, 936 female to 1000 male",
+  "text": "Manipur | Demographics > Population | Demographics of Manipur (2011) | Child Sex Ratio, 936 female to 1000 male"
  },
  {
   "id": 5043,
@@ -45392,8 +45392,8 @@
   "url": "https://en.wikipedia.org/wiki/Manipur",
   "section": "Demographics > Population",
   "type": "table",
-  "body": "0: Density (per km2), 1: 115",
-  "text": "Manipur | Demographics > Population | Demographics of Manipur (2011) | 0: Density (per km2), 1: 115"
+  "body": "Density (per km2), 115",
+  "text": "Manipur | Demographics > Population | Demographics of Manipur (2011) | Density (per km2), 115"
  },
  {
   "id": 5044,
@@ -45401,8 +45401,8 @@
   "url": "https://en.wikipedia.org/wiki/Manipur",
   "section": "Demographics > Population",
   "type": "table",
-  "body": "0: Literacy, 1: 1,768,181 (85.4%)",
-  "text": "Manipur | Demographics > Population | Demographics of Manipur (2011) | 0: Literacy, 1: 1,768,181 (85.4%)"
+  "body": "Literacy, 1,768,181 (85.4%)",
+  "text": "Manipur | Demographics > Population | Demographics of Manipur (2011) | Literacy, 1,768,181 (85.4%)"
  },
  {
   "id": 5045,
@@ -45410,8 +45410,8 @@
   "url": "https://en.wikipedia.org/wiki/Manipur",
   "section": "Demographics > Population",
   "type": "table",
-  "body": "0: Towns, 1: 33",
-  "text": "Manipur | Demographics > Population | Demographics of Manipur (2011) | 0: Towns, 1: 33"
+  "body": "Towns, 33",
+  "text": "Manipur | Demographics > Population | Demographics of Manipur (2011) | Towns, 33"
  },
  {
   "id": 5046,
@@ -55814,8 +55814,8 @@
   "url": "https://en.wikipedia.org/wiki/Rajasthan",
   "section": "Flora and fauna",
   "type": "table",
-  "body": "0: Formation day, 1: 1 November",
-  "text": "Rajasthan | Flora and fauna | State symbols of Rajasthan | 0: Formation day, 1: 1 November"
+  "body": "Formation day, 1 November",
+  "text": "Rajasthan | Flora and fauna | State symbols of Rajasthan | Formation day, 1 November"
  },
  {
   "id": 6202,
@@ -55823,8 +55823,8 @@
   "url": "https://en.wikipedia.org/wiki/Rajasthan",
   "section": "Flora and fauna",
   "type": "table",
-  "body": "0: State animal, 1: Chinkara and camel",
-  "text": "Rajasthan | Flora and fauna | State symbols of Rajasthan | 0: State animal, 1: Chinkara and camel"
+  "body": "State animal, Chinkara and camel",
+  "text": "Rajasthan | Flora and fauna | State symbols of Rajasthan | State animal, Chinkara and camel"
  },
  {
   "id": 6203,
@@ -55832,8 +55832,8 @@
   "url": "https://en.wikipedia.org/wiki/Rajasthan",
   "section": "Flora and fauna",
   "type": "table",
-  "body": "0: State bird, 1: Godavan (great Indian bustard)",
-  "text": "Rajasthan | Flora and fauna | State symbols of Rajasthan | 0: State bird, 1: Godavan (great Indian bustard)"
+  "body": "State bird, Godavan (great Indian bustard)",
+  "text": "Rajasthan | Flora and fauna | State symbols of Rajasthan | State bird, Godavan (great Indian bustard)"
  },
  {
   "id": 6204,
@@ -55841,8 +55841,8 @@
   "url": "https://en.wikipedia.org/wiki/Rajasthan",
   "section": "Flora and fauna",
   "type": "table",
-  "body": "0: State flower, 1: Rohida",
-  "text": "Rajasthan | Flora and fauna | State symbols of Rajasthan | 0: State flower, 1: Rohida"
+  "body": "State flower, Rohida",
+  "text": "Rajasthan | Flora and fauna | State symbols of Rajasthan | State flower, Rohida"
  },
  {
   "id": 6205,
@@ -55850,8 +55850,8 @@
   "url": "https://en.wikipedia.org/wiki/Rajasthan",
   "section": "Flora and fauna",
   "type": "table",
-  "body": "0: State tree, 1: Khejadi",
-  "text": "Rajasthan | Flora and fauna | State symbols of Rajasthan | 0: State tree, 1: Khejadi"
+  "body": "State tree, Khejadi",
+  "text": "Rajasthan | Flora and fauna | State symbols of Rajasthan | State tree, Khejadi"
  },
  {
   "id": 6206,
@@ -61871,8 +61871,8 @@
   "url": "https://en.wikipedia.org/wiki/Tripura",
   "section": "Geography > Flora and fauna",
   "type": "table",
-  "body": "0: State symbols of Tripura, 1: State symbols of Tripura",
-  "text": "Tripura | Geography > Flora and fauna | 0: State symbols of Tripura, 1: State symbols of Tripura"
+  "body": "State symbols of Tripura, State symbols of Tripura",
+  "text": "Tripura | Geography > Flora and fauna | State symbols of Tripura, State symbols of Tripura"
  },
  {
   "id": 6875,
@@ -61880,8 +61880,8 @@
   "url": "https://en.wikipedia.org/wiki/Tripura",
   "section": "Geography > Flora and fauna",
   "type": "table",
-  "body": "0: State animal, 1: Phayre's leaf monkey",
-  "text": "Tripura | Geography > Flora and fauna | 0: State animal, 1: Phayre's leaf monkey"
+  "body": "State animal, Phayre's leaf monkey",
+  "text": "Tripura | Geography > Flora and fauna | State animal, Phayre's leaf monkey"
  },
  {
   "id": 6876,
@@ -61889,8 +61889,8 @@
   "url": "https://en.wikipedia.org/wiki/Tripura",
   "section": "Geography > Flora and fauna",
   "type": "table",
-  "body": "0: State bird, 1: Green imperial pigeon",
-  "text": "Tripura | Geography > Flora and fauna | 0: State bird, 1: Green imperial pigeon"
+  "body": "State bird, Green imperial pigeon",
+  "text": "Tripura | Geography > Flora and fauna | State bird, Green imperial pigeon"
  },
  {
   "id": 6877,
@@ -61898,8 +61898,8 @@
   "url": "https://en.wikipedia.org/wiki/Tripura",
   "section": "Geography > Flora and fauna",
   "type": "table",
-  "body": "0: State tree, 1: Agarwood",
-  "text": "Tripura | Geography > Flora and fauna | 0: State tree, 1: Agarwood"
+  "body": "State tree, Agarwood",
+  "text": "Tripura | Geography > Flora and fauna | State tree, Agarwood"
  },
  {
   "id": 6878,
@@ -61907,8 +61907,8 @@
   "url": "https://en.wikipedia.org/wiki/Tripura",
   "section": "Geography > Flora and fauna",
   "type": "table",
-  "body": "0: State flower, 1: Mesua ferrea",
-  "text": "Tripura | Geography > Flora and fauna | 0: State flower, 1: Mesua ferrea"
+  "body": "State flower, Mesua ferrea",
+  "text": "Tripura | Geography > Flora and fauna | State flower, Mesua ferrea"
  },
  {
   "id": 6879,
@@ -61916,8 +61916,8 @@
   "url": "https://en.wikipedia.org/wiki/Tripura",
   "section": "Geography > Flora and fauna",
   "type": "table",
-  "body": "0: State fruit, 1: Queen pineapple",
-  "text": "Tripura | Geography > Flora and fauna | 0: State fruit, 1: Queen pineapple"
+  "body": "State fruit, Queen pineapple",
+  "text": "Tripura | Geography > Flora and fauna | State fruit, Queen pineapple"
  },
  {
   "id": 6880,
@@ -62051,8 +62051,8 @@
   "url": "https://en.wikipedia.org/wiki/Tripura",
   "section": "Economy",
   "type": "table",
-  "body": "0: GSDP at constant prices (2004–05 base) Figures in billions of Indian rupees, 1: GSDP at constant prices (2004–05 base) Figures in billions of Indian rupees",
-  "text": "Tripura | Economy | 0: GSDP at constant prices (2004–05 base) Figures in billions of Indian rupees, 1: GSDP at constant prices (2004–05 base) Figures in billions of Indian rupees"
+  "body": "GSDP at constant prices (2004–05 base) Figures in billions of Indian rupees, GSDP at constant prices (2004–05 base) Figures in billions of Indian rupees",
+  "text": "Tripura | Economy | GSDP at constant prices (2004–05 base) Figures in billions of Indian rupees, GSDP at constant prices (2004–05 base) Figures in billions of Indian rupees"
  },
  {
   "id": 6895,
@@ -62060,8 +62060,8 @@
   "url": "https://en.wikipedia.org/wiki/Tripura",
   "section": "Economy",
   "type": "table",
-  "body": "0: Year, 1: GSDP",
-  "text": "Tripura | Economy | 0: Year, 1: GSDP"
+  "body": "Year, GSDP",
+  "text": "Tripura | Economy | Year, GSDP"
  },
  {
   "id": 6896,
@@ -62069,8 +62069,8 @@
   "url": "https://en.wikipedia.org/wiki/Tripura",
   "section": "Economy",
   "type": "table",
-  "body": "0: 2004–05, 1: 89.04",
-  "text": "Tripura | Economy | 0: 2004–05, 1: 89.04"
+  "body": "2004–05, 89.04",
+  "text": "Tripura | Economy | 2004–05, 89.04"
  },
  {
   "id": 6897,
@@ -62078,8 +62078,8 @@
   "url": "https://en.wikipedia.org/wiki/Tripura",
   "section": "Economy",
   "type": "table",
-  "body": "0: 2005–06, 1: 94.82",
-  "text": "Tripura | Economy | 0: 2005–06, 1: 94.82"
+  "body": "2005–06, 94.82",
+  "text": "Tripura | Economy | 2005–06, 94.82"
  },
  {
   "id": 6898,
@@ -62087,8 +62087,8 @@
   "url": "https://en.wikipedia.org/wiki/Tripura",
   "section": "Economy",
   "type": "table",
-  "body": "0: 2006–07, 1: 102.02",
-  "text": "Tripura | Economy | 0: 2006–07, 1: 102.02"
+  "body": "2006–07, 102.02",
+  "text": "Tripura | Economy | 2006–07, 102.02"
  },
  {
   "id": 6899,
@@ -62096,8 +62096,8 @@
   "url": "https://en.wikipedia.org/wiki/Tripura",
   "section": "Economy",
   "type": "table",
-  "body": "0: 2007–08, 1: 109.88",
-  "text": "Tripura | Economy | 0: 2007–08, 1: 109.88"
+  "body": "2007–08, 109.88",
+  "text": "Tripura | Economy | 2007–08, 109.88"
  },
  {
   "id": 6900,
@@ -62105,8 +62105,8 @@
   "url": "https://en.wikipedia.org/wiki/Tripura",
   "section": "Economy",
   "type": "table",
-  "body": "0: 2008–09, 1: 115.96",
-  "text": "Tripura | Economy | 0: 2008–09, 1: 115.96"
+  "body": "2008–09, 115.96",
+  "text": "Tripura | Economy | 2008–09, 115.96"
  },
  {
   "id": 6901,
@@ -62114,8 +62114,8 @@
   "url": "https://en.wikipedia.org/wiki/Tripura",
   "section": "Economy",
   "type": "table",
-  "body": "0: 2009–10, 1: 122.48",
-  "text": "Tripura | Economy | 0: 2009–10, 1: 122.48"
+  "body": "2009–10, 122.48",
+  "text": "Tripura | Economy | 2009–10, 122.48"
  },
  {
   "id": 6902,
@@ -62123,8 +62123,8 @@
   "url": "https://en.wikipedia.org/wiki/Tripura",
   "section": "Economy",
   "type": "table",
-  "body": "0: 2010–11, 1: 129.47",
-  "text": "Tripura | Economy | 0: 2010–11, 1: 129.47"
+  "body": "2010–11, 129.47",
+  "text": "Tripura | Economy | 2010–11, 129.47"
  },
  {
   "id": 6903,
@@ -62132,8 +62132,8 @@
   "url": "https://en.wikipedia.org/wiki/Tripura",
   "section": "Economy",
   "type": "table",
-  "body": "0: Per Capita Income with 2004–05 Base, 1: Per Capita Income with 2004–05 Base",
-  "text": "Tripura | Economy | 0: Per Capita Income with 2004–05 Base, 1: Per Capita Income with 2004–05 Base"
+  "body": "Per Capita Income with 2004–05 Base, Per Capita Income with 2004–05 Base",
+  "text": "Tripura | Economy | Per Capita Income with 2004–05 Base, Per Capita Income with 2004–05 Base"
  },
  {
   "id": 6904,
@@ -62141,8 +62141,8 @@
   "url": "https://en.wikipedia.org/wiki/Tripura",
   "section": "Economy",
   "type": "table",
-  "body": "0: Year, 1: Tripura",
-  "text": "Tripura | Economy | 0: Year, 1: Tripura"
+  "body": "Year, Tripura",
+  "text": "Tripura | Economy | Year, Tripura"
  },
  {
   "id": 6905,
@@ -62150,8 +62150,8 @@
   "url": "https://en.wikipedia.org/wiki/Tripura",
   "section": "Economy",
   "type": "table",
-  "body": "0: 2004–05, 1: 24394",
-  "text": "Tripura | Economy | 0: 2004–05, 1: 24394"
+  "body": "2004–05, 24394",
+  "text": "Tripura | Economy | 2004–05, 24394"
  },
  {
   "id": 6906,
@@ -62159,8 +62159,8 @@
   "url": "https://en.wikipedia.org/wiki/Tripura",
   "section": "Economy",
   "type": "table",
-  "body": "0: 2005–06, 1: 26668",
-  "text": "Tripura | Economy | 0: 2005–06, 1: 26668"
+  "body": "2005–06, 26668",
+  "text": "Tripura | Economy | 2005–06, 26668"
  },
  {
   "id": 6907,
@@ -62168,8 +62168,8 @@
   "url": "https://en.wikipedia.org/wiki/Tripura",
   "section": "Economy",
   "type": "table",
-  "body": "0: 2006–07, 1: 29081",
-  "text": "Tripura | Economy | 0: 2006–07, 1: 29081"
+  "body": "2006–07, 29081",
+  "text": "Tripura | Economy | 2006–07, 29081"
  },
  {
   "id": 6908,
@@ -62177,8 +62177,8 @@
   "url": "https://en.wikipedia.org/wiki/Tripura",
   "section": "Economy",
   "type": "table",
-  "body": "0: 2007–08, 1: 31111",
-  "text": "Tripura | Economy | 0: 2007–08, 1: 31111"
+  "body": "2007–08, 31111",
+  "text": "Tripura | Economy | 2007–08, 31111"
  },
  {
   "id": 6909,
@@ -62186,8 +62186,8 @@
   "url": "https://en.wikipedia.org/wiki/Tripura",
   "section": "Economy",
   "type": "table",
-  "body": "0: 2008–09, 1: 33350",
-  "text": "Tripura | Economy | 0: 2008–09, 1: 33350"
+  "body": "2008–09, 33350",
+  "text": "Tripura | Economy | 2008–09, 33350"
  },
  {
   "id": 6910,
@@ -62195,8 +62195,8 @@
   "url": "https://en.wikipedia.org/wiki/Tripura",
   "section": "Economy",
   "type": "table",
-  "body": "0: 2010–11, 1: 33493",
-  "text": "Tripura | Economy | 0: 2010–11, 1: 33493"
+  "body": "2010–11, 33493",
+  "text": "Tripura | Economy | 2010–11, 33493"
  },
  {
   "id": 6911,
@@ -62204,8 +62204,8 @@
   "url": "https://en.wikipedia.org/wiki/Tripura",
   "section": "Economy",
   "type": "table",
-  "body": "0: 2011–12, 1: 47079",
-  "text": "Tripura | Economy | 0: 2011–12, 1: 47079"
+  "body": "2011–12, 47079",
+  "text": "Tripura | Economy | 2011–12, 47079"
  },
  {
   "id": 6912,
@@ -62213,8 +62213,8 @@
   "url": "https://en.wikipedia.org/wiki/Tripura",
   "section": "Economy",
   "type": "table",
-  "body": "0: 2012–13, 1: 52434",
-  "text": "Tripura | Economy | 0: 2012–13, 1: 52434"
+  "body": "2012–13, 52434",
+  "text": "Tripura | Economy | 2012–13, 52434"
  },
  {
   "id": 6913,
@@ -62222,8 +62222,8 @@
   "url": "https://en.wikipedia.org/wiki/Tripura",
   "section": "Economy",
   "type": "table",
-  "body": "0: 2013–14, 1: 61570",
-  "text": "Tripura | Economy | 0: 2013–14, 1: 61570"
+  "body": "2013–14, 61570",
+  "text": "Tripura | Economy | 2013–14, 61570"
  },
  {
   "id": 6914,
@@ -62231,8 +62231,8 @@
   "url": "https://en.wikipedia.org/wiki/Tripura",
   "section": "Economy",
   "type": "table",
-  "body": "0: 2014–15, 1: 69474",
-  "text": "Tripura | Economy | 0: 2014–15, 1: 69474"
+  "body": "2014–15, 69474",
+  "text": "Tripura | Economy | 2014–15, 69474"
  },
  {
   "id": 6915,
@@ -62240,8 +62240,8 @@
   "url": "https://en.wikipedia.org/wiki/Tripura",
   "section": "Economy",
   "type": "table",
-  "body": "0: 2015–16, 1: 83680",
-  "text": "Tripura | Economy | 0: 2015–16, 1: 83680"
+  "body": "2015–16, 83680",
+  "text": "Tripura | Economy | 2015–16, 83680"
  },
  {
   "id": 6916,
@@ -62249,8 +62249,8 @@
   "url": "https://en.wikipedia.org/wiki/Tripura",
   "section": "Economy",
   "type": "table",
-  "body": "0: 2016–17, 1: 90827",
-  "text": "Tripura | Economy | 0: 2016–17, 1: 90827"
+  "body": "2016–17, 90827",
+  "text": "Tripura | Economy | 2016–17, 90827"
  },
  {
   "id": 6917,
@@ -62258,8 +62258,8 @@
   "url": "https://en.wikipedia.org/wiki/Tripura",
   "section": "Economy",
   "type": "table",
-  "body": "0: 2017–18, 1: 100477",
-  "text": "Tripura | Economy | 0: 2017–18, 1: 100477"
+  "body": "2017–18, 100477",
+  "text": "Tripura | Economy | 2017–18, 100477"
  },
  {
   "id": 6918,
@@ -62267,8 +62267,8 @@
   "url": "https://en.wikipedia.org/wiki/Tripura",
   "section": "Economy",
   "type": "table",
-  "body": "0: 2018–19, 1: 113102",
-  "text": "Tripura | Economy | 0: 2018–19, 1: 113102"
+  "body": "2018–19, 113102",
+  "text": "Tripura | Economy | 2018–19, 113102"
  },
  {
   "id": 6919,
@@ -62276,8 +62276,8 @@
   "url": "https://en.wikipedia.org/wiki/Tripura",
   "section": "Economy",
   "type": "table",
-  "body": "0: 2019–20, 1: 139512",
-  "text": "Tripura | Economy | 0: 2019–20, 1: 139512"
+  "body": "2019–20, 139512",
+  "text": "Tripura | Economy | 2019–20, 139512"
  },
  {
   "id": 6920,
@@ -62285,8 +62285,8 @@
   "url": "https://en.wikipedia.org/wiki/Tripura",
   "section": "Economy",
   "type": "table",
-  "body": "0: 2020–21, 1: 147501",
-  "text": "Tripura | Economy | 0: 2020–21, 1: 147501"
+  "body": "2020–21, 147501",
+  "text": "Tripura | Economy | 2020–21, 147501"
  },
  {
   "id": 6921,
@@ -62474,8 +62474,8 @@
   "url": "https://en.wikipedia.org/wiki/Tripura",
   "section": "Healthcare",
   "type": "table",
-  "body": "0: Health indices as of 2010, 1: Health indices as of 2010, 2: Health indices as of 2010",
-  "text": "Tripura | Healthcare | 0: Health indices as of 2010, 1: Health indices as of 2010, 2: Health indices as of 2010"
+  "body": "Health indices as of 2010, Health indices as of 2010, Health indices as of 2010",
+  "text": "Tripura | Healthcare | Health indices as of 2010, Health indices as of 2010, Health indices as of 2010"
  },
  {
   "id": 6942,
@@ -62483,8 +62483,8 @@
   "url": "https://en.wikipedia.org/wiki/Tripura",
   "section": "Healthcare",
   "type": "table",
-  "body": "0: Indicator, 1: Tripura, 2: India",
-  "text": "Tripura | Healthcare | 0: Indicator, 1: Tripura, 2: India"
+  "body": "Indicator, Tripura, India",
+  "text": "Tripura | Healthcare | Indicator, Tripura, India"
  },
  {
   "id": 6943,
@@ -62492,8 +62492,8 @@
   "url": "https://en.wikipedia.org/wiki/Tripura",
   "section": "Healthcare",
   "type": "table",
-  "body": "0: Birth rate, 1: 14.9, 2: 22.1",
-  "text": "Tripura | Healthcare | 0: Birth rate, 1: 14.9, 2: 22.1"
+  "body": "Birth rate, 14.9, 22.1",
+  "text": "Tripura | Healthcare | Birth rate, 14.9, 22.1"
  },
  {
   "id": 6944,
@@ -62501,8 +62501,8 @@
   "url": "https://en.wikipedia.org/wiki/Tripura",
   "section": "Healthcare",
   "type": "table",
-  "body": "0: Death rate, 1: 5.0, 2: 7.2",
-  "text": "Tripura | Healthcare | 0: Death rate, 1: 5.0, 2: 7.2"
+  "body": "Death rate, 5.0, 7.2",
+  "text": "Tripura | Healthcare | Death rate, 5.0, 7.2"
  },
  {
   "id": 6945,
@@ -62510,8 +62510,8 @@
   "url": "https://en.wikipedia.org/wiki/Tripura",
   "section": "Healthcare",
   "type": "table",
-  "body": "0: Infant mortality rate, 1: 27, 2: 47",
-  "text": "Tripura | Healthcare | 0: Infant mortality rate, 1: 27, 2: 47"
+  "body": "Infant mortality rate, 27, 47",
+  "text": "Tripura | Healthcare | Infant mortality rate, 27, 47"
  },
  {
   "id": 6946,
@@ -62519,8 +62519,8 @@
   "url": "https://en.wikipedia.org/wiki/Tripura",
   "section": "Healthcare",
   "type": "table",
-  "body": "0: Total fertility rate, 1: 2.2, 2: 2.7",
-  "text": "Tripura | Healthcare | 0: Total fertility rate, 1: 2.2, 2: 2.7"
+  "body": "Total fertility rate, 2.2, 2.7",
+  "text": "Tripura | Healthcare | Total fertility rate, 2.2, 2.7"
  },
  {
   "id": 6947,
@@ -62528,8 +62528,8 @@
   "url": "https://en.wikipedia.org/wiki/Tripura",
   "section": "Healthcare",
   "type": "table",
-  "body": "0: Natural growth rate, 1: 9.9, 2: 14.9",
-  "text": "Tripura | Healthcare | 0: Natural growth rate, 1: 9.9, 2: 14.9"
+  "body": "Natural growth rate, 9.9, 14.9",
+  "text": "Tripura | Healthcare | Natural growth rate, 9.9, 14.9"
  },
  {
   "id": 6948,
@@ -63473,8 +63473,8 @@
   "url": "https://en.wikipedia.org/wiki/Uttar_Pradesh",
   "section": "History > British India era",
   "type": "table",
-  "body": "1807: Ceded and Conquered Provinces",
-  "text": "Uttar Pradesh | History > British India era | 1807: Ceded and Conquered Provinces"
+  "body": "Ceded and Conquered Provinces",
+  "text": "Uttar Pradesh | History > British India era | Ceded and Conquered Provinces"
  },
  {
   "id": 7053,
@@ -64031,8 +64031,8 @@
   "url": "https://en.wikipedia.org/wiki/Uttar_Pradesh",
   "section": "Economy",
   "type": "table",
-  "body": "0: Net state domestic product at factor cost at current prices (2011–12 base) figures in crores of Indian rupees, 1: Net state domestic product at factor cost at current prices (2011–12 base) figures in crores of Indian rupees",
-  "text": "Uttar Pradesh | Economy | 0: Net state domestic product at factor cost at current prices (2011–12 base) figures in crores of Indian rupees, 1: Net state domestic product at factor cost at current prices (2011–12 base) figures in crores of Indian rupees"
+  "body": "Net state domestic product at factor cost at current prices (2011–12 base) figures in crores of Indian rupees, Net state domestic product at factor cost at current prices (2011–12 base) figures in crores of Indian rupees",
+  "text": "Uttar Pradesh | Economy | Net state domestic product at factor cost at current prices (2011–12 base) figures in crores of Indian rupees, Net state domestic product at factor cost at current prices (2011–12 base) figures in crores of Indian rupees"
  },
  {
   "id": 7115,
@@ -64040,8 +64040,8 @@
   "url": "https://en.wikipedia.org/wiki/Uttar_Pradesh",
   "section": "Economy",
   "type": "table",
-  "body": "0: Year, 1: Net state domestic product",
-  "text": "Uttar Pradesh | Economy | 0: Year, 1: Net state domestic product"
+  "body": "Year, Net state domestic product",
+  "text": "Uttar Pradesh | Economy | Year, Net state domestic product"
  },
  {
   "id": 7116,
@@ -64049,8 +64049,8 @@
   "url": "https://en.wikipedia.org/wiki/Uttar_Pradesh",
   "section": "Economy",
   "type": "table",
-  "body": "0: 2011–12, 1: 532218",
-  "text": "Uttar Pradesh | Economy | 0: 2011–12, 1: 532218"
+  "body": "2011–12, 532218",
+  "text": "Uttar Pradesh | Economy | 2011–12, 532218"
  },
  {
   "id": 7117,
@@ -64058,8 +64058,8 @@
   "url": "https://en.wikipedia.org/wiki/Uttar_Pradesh",
   "section": "Economy",
   "type": "table",
-  "body": "0: 2015–16, 1: 1137808",
-  "text": "Uttar Pradesh | Economy | 0: 2015–16, 1: 1137808"
+  "body": "2015–16, 1137808",
+  "text": "Uttar Pradesh | Economy | 2015–16, 1137808"
  },
  {
   "id": 7118,
@@ -64067,8 +64067,8 @@
   "url": "https://en.wikipedia.org/wiki/Uttar_Pradesh",
   "section": "Economy",
   "type": "table",
-  "body": "0: 2016–17, 1: 1288700",
-  "text": "Uttar Pradesh | Economy | 0: 2016–17, 1: 1288700"
+  "body": "2016–17, 1288700",
+  "text": "Uttar Pradesh | Economy | 2016–17, 1288700"
  },
  {
   "id": 7119,
@@ -64076,8 +64076,8 @@
   "url": "https://en.wikipedia.org/wiki/Uttar_Pradesh",
   "section": "Economy",
   "type": "table",
-  "body": "0: 2017–18, 1: 1,446,000 (est.)",
-  "text": "Uttar Pradesh | Economy | 0: 2017–18, 1: 1,446,000 (est.)"
+  "body": "2017–18, 1,446,000 (est.)",
+  "text": "Uttar Pradesh | Economy | 2017–18, 1,446,000 (est.)"
  },
  {
   "id": 7120,
@@ -66848,8 +66848,8 @@
   "url": "https://en.wikipedia.org/wiki/West_Bengal",
   "section": "Economy",
   "type": "table",
-  "body": "0: Net State Domestic Product at Factor Cost at Current Prices (2004–05 Base) (figures in crores of Indian rupees), 1: Net State Domestic Product at Factor Cost at Current Prices (2004–05 Base) (figures in crores of Indian rupees)",
-  "text": "West Bengal | Economy | 0: Net State Domestic Product at Factor Cost at Current Prices (2004–05 Base) (figures in crores of Indian rupees), 1: Net State Domestic Product at Factor Cost at Current Prices (2004–05 Base) (figures in crores of Indian rupees)"
+  "body": "Net State Domestic Product at Factor Cost at Current Prices (2004–05 Base) (figures in crores of Indian rupees), Net State Domestic Product at Factor Cost at Current Prices (2004–05 Base) (figures in crores of Indian rupees)",
+  "text": "West Bengal | Economy | Net State Domestic Product at Factor Cost at Current Prices (2004–05 Base) (figures in crores of Indian rupees), Net State Domestic Product at Factor Cost at Current Prices (2004–05 Base) (figures in crores of Indian rupees)"
  },
  {
   "id": 7428,
@@ -66857,8 +66857,8 @@
   "url": "https://en.wikipedia.org/wiki/West_Bengal",
   "section": "Economy",
   "type": "table",
-  "body": "0: Year, 1: Net State Domestic Product",
-  "text": "West Bengal | Economy | 0: Year, 1: Net State Domestic Product"
+  "body": "Year, Net State Domestic Product",
+  "text": "West Bengal | Economy | Year, Net State Domestic Product"
  },
  {
   "id": 7429,
@@ -66866,8 +66866,8 @@
   "url": "https://en.wikipedia.org/wiki/West_Bengal",
   "section": "Economy",
   "type": "table",
-  "body": "0: 2004–2005, 1: 190073",
-  "text": "West Bengal | Economy | 0: 2004–2005, 1: 190073"
+  "body": "2004–2005, 190073",
+  "text": "West Bengal | Economy | 2004–2005, 190073"
  },
  {
   "id": 7430,
@@ -66875,8 +66875,8 @@
   "url": "https://en.wikipedia.org/wiki/West_Bengal",
   "section": "Economy",
   "type": "table",
-  "body": "0: 2005–2006, 1: 209642",
-  "text": "West Bengal | Economy | 0: 2005–2006, 1: 209642"
+  "body": "2005–2006, 209642",
+  "text": "West Bengal | Economy | 2005–2006, 209642"
  },
  {
   "id": 7431,
@@ -66884,8 +66884,8 @@
   "url": "https://en.wikipedia.org/wiki/West_Bengal",
   "section": "Economy",
   "type": "table",
-  "body": "0: 2006–2007, 1: 238625",
-  "text": "West Bengal | Economy | 0: 2006–2007, 1: 238625"
+  "body": "2006–2007, 238625",
+  "text": "West Bengal | Economy | 2006–2007, 238625"
  },
  {
   "id": 7432,
@@ -66893,8 +66893,8 @@
   "url": "https://en.wikipedia.org/wiki/West_Bengal",
   "section": "Economy",
   "type": "table",
-  "body": "0: 2007–2008, 1: 272166",
-  "text": "West Bengal | Economy | 0: 2007–2008, 1: 272166"
+  "body": "2007–2008, 272166",
+  "text": "West Bengal | Economy | 2007–2008, 272166"
  },
  {
   "id": 7433,
@@ -66902,8 +66902,8 @@
   "url": "https://en.wikipedia.org/wiki/West_Bengal",
   "section": "Economy",
   "type": "table",
-  "body": "0: 2008–2009, 1: 309799",
-  "text": "West Bengal | Economy | 0: 2008–2009, 1: 309799"
+  "body": "2008–2009, 309799",
+  "text": "West Bengal | Economy | 2008–2009, 309799"
  },
  {
   "id": 7434,
@@ -66911,8 +66911,8 @@
   "url": "https://en.wikipedia.org/wiki/West_Bengal",
   "section": "Economy",
   "type": "table",
-  "body": "0: 2009–2010, 1: 366318",
-  "text": "West Bengal | Economy | 0: 2009–2010, 1: 366318"
+  "body": "2009–2010, 366318",
+  "text": "West Bengal | Economy | 2009–2010, 366318"
  },
  {
   "id": 7435,

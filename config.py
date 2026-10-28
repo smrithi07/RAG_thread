@@ -22,3 +22,22 @@ MIN_PARA_WORDS = 5
 CHUNK_WORDS = 200
 CHUNK_OVERLAP = 30
 CHUNKS_FILE = os.path.join(INDEX_DIR, "chunks.json")
+
+EMBED_MODEL = "BAAI/bge-small-en-v1.5"
+QUERY_PREFIX = "Represent this sentence for searching relevant passages: "
+EMBED_FILE = os.path.join(INDEX_DIR, "embeddings.npy")
+META_FILE = os.path.join(INDEX_DIR, "index_meta.json")
+BM25_K1 = 1.5
+BM25_B = 0.75
+DENSE_TOP_K = 50
+BM25_TOP_K = 50
+
+RERANK_MODEL = "cross-encoder/ms-marco-MiniLM-L-6-v2"
+RRF_K = 60
+RRF_TOP = 30
+MMR_LAMBDA = 0.7
+MMR_TOP = 15
+FINAL_TOP = 5
+NOT_FOUND_THRESHOLD = 0.2
+SUMMARY_PAGE = "States and union territories of India"
+ALIASES_FILE = os.path.join(DATA_DIR, "aliases.json")

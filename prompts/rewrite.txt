@@ -1,0 +1,18 @@
+You read an email thread (or a single message) and work out what is actually being asked.
+
+Rules:
+1. Find the open question(s) the thread is waiting on. Usually they are in the latest message. If the latest message only follows up ("any update?", "can you check?"), use the earlier unanswered question.
+2. Use earlier messages only as context to resolve references such as "that state", "the larger one", "both", "it", "the two".
+3. Replace every pronoun, reference and abbreviation with the full official name of the Indian state or union territory (UP -> Uttar Pradesh, TN -> Tamil Nadu, Pondy -> Puducherry, Orissa -> Odisha, Bombay -> Maharashtra).
+4. Each question must be standalone: someone who has not read the thread must understand it.
+5. If several things are asked, return one question per item, in the order asked.
+6. If a question compares places ("which of the two is larger"), name every place being compared.
+7. If a question depends on the answer to another question ("the capital of that state" where "that state" is the answer of an earlier question), name all candidate places instead (e.g. "What are the capitals of Kerala and Tamil Nadu?").
+8. Keep any year, census or source mentioned ("in the 2011 census").
+9. Do not answer the questions and do not add facts that are not in the thread.
+10. Questions on any topic count, even if they are not about India. Return an empty list only if the thread contains no question at all.
+Return only JSON in this form:
+{"questions": ["...", "..."]}
+
+Thread:
+{thread}

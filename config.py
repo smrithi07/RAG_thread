@@ -41,3 +41,7 @@ FINAL_TOP = 5
 NOT_FOUND_THRESHOLD = 0.2
 SUMMARY_PAGE = "States and union territories of India"
 ALIASES_FILE = os.path.join(DATA_DIR, "aliases.json")
+
+REWRITE_PROMPT = os.path.join(PROMPT_DIR, "rewrite.txt")
+ANSWER_PROMPT = os.path.join(PROMPT_DIR, "answer.txt")
+GEMINI_TEMPERATURE = 0.0

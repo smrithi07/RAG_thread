@@ -1,4 +1,5 @@
 import re
+import json
 import math
 import time
 
@@ -14,6 +15,7 @@ embeddings = None
 bm25_model = None
 reranker = None
 entity_names = None
+aliases = None
 
 
 def score_of(pair):
@@ -38,7 +40,7 @@ def load_entities():
 
 
 def load_resources():
-    global chunks, embeddings, bm25_model, reranker, entity_names
+    global chunks, embeddings, bm25_model, reranker, entity_names, aliases
     if chunks is not None:
         return
     chunks, embeddings = load_index()
@@ -48,6 +50,8 @@ def load_resources():
     bm25_model = build_bm25(texts)
     reranker = CrossEncoder(config.RERANK_MODEL)
     entity_names = load_entities()
+    with open(config.ALIASES_FILE, encoding="utf-8") as f:
+        aliases = json.load(f)
 
 
 def find_entities(query):
@@ -56,6 +60,17 @@ def find_entities(query):
     for i in range(len(entity_names)):
         if re.search(r"\b" + re.escape(entity_names[i]) + r"\b", q):
             found.append(entity_names[i])
+    for alias in aliases:
+        name = aliases[alias]
+        if name in found:
+            continue
+        # uppercase aliases like "UP" must match case-sensitively
+        if alias != alias.lower():
+            text = query
+        else:
+            text = q
+        if re.search(r"\b" + re.escape(alias) + r"\b", text):
+            found.append(name)
     return found
 
 
